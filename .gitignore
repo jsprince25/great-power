@@ -1,0 +1,5 @@
+touch .gitignore
+git rm --cached .DS_Store
+git rm --cached -r .Rproj.user
+git commit -m "Add .gitignore and clean up tracked junk"
+git push

@@ -1,0 +1,172 @@
+[1] 90
+[1] "v61"
+      v58             v59             v60             v61       
+ Min.   :1.000   Min.   :1.000   Min.   :1.000   Min.   :0.000  
+ 1st Qu.:5.000   1st Qu.:5.000   1st Qu.:5.000   1st Qu.:1.000  
+ Median :5.000   Median :5.000   Median :5.000   Median :5.000  
+ Mean   :4.559   Mean   :4.686   Mean   :4.845   Mean   :5.197  
+ 3rd Qu.:5.000   3rd Qu.:5.000   3rd Qu.:5.000   3rd Qu.:9.000  
+ Max.   :9.000   Max.   :9.000   Max.   :9.000   Max.   :9.000  
+
+-> v58 : AGNST CHURCH CMNST     C 
+  Category Frequency Percent.lbl_filtered Percent.Freq Cumulative
+       YES       802                  YES        17.47      17.47
+        NO      3788                   NO        82.53     100.00
+ DONT KNOW         0            DONT KNOW         0.00     100.00
+        NA         0                   NA         0.00     100.00
+
+-> v59 : FVR GOVT OWN CMNST     C 
+  Category Frequency Percent.lbl_filtered Percent.Freq Cumulative
+       YES       832                  YES        19.16      19.16
+        NO      3511                   NO        80.84     100.00
+ DONT KNOW         0            DONT KNOW         0.00     100.00
+        NA         0                   NA         0.00     100.00
+
+-> v60 : FVR PEACE CMNST        C 
+  Category Frequency Percent.lbl_filtered Percent.Freq Cumulative
+       YES       683                  YES        15.95      15.95
+        NO      3599                   NO        84.05     100.00
+ DONT KNOW         0            DONT KNOW         0.00     100.00
+        NA         0                   NA         0.00     100.00
+
+-> v61 : XA-RLGN P-PEACE-CMNST  C 
+  Category Frequency Percent.lbl_filtered Percent.Freq Cumulative
+      INAP       198                 INAP         6.66       6.66
+       YES      1305                  YES        43.92      50.59
+        NO      1468                   NO        49.41     100.00
+ DONT KNOW         0            DONT KNOW         0.00     100.00
+        NA         0                   NA         0.00     100.00
+
+-> v35 : CENSOR SCLST SPKR      C 
+  Category Frequency Percent.lbl_filtered Percent.Freq Cumulative
+       YES      2889                  YES        65.64      65.64
+        NO      1512                   NO        34.36     100.00
+ DONT KNOW         0            DONT KNOW         0.00     100.00
+
+-> v36 : CENSOR SCLST TCHR      C 
+  Category Frequency Percent.lbl_filtered Percent.Freq Cumulative
+       YES      1626                  YES        38.06      38.06
+        NO      2646                   NO        61.94     100.00
+ DONT KNOW         0            DONT KNOW         0.00     100.00
+
+-> v37 : CENSOR SCLST BOOK      C 
+  Category Frequency Percent.lbl_filtered Percent.Freq Cumulative
+       YES      1704                  YES        39.62      39.62
+        NO      2597                   NO        60.38     100.00
+ DONT KNOW         0            DONT KNOW         0.00     100.00
+
+================================================
+Crosstab: v138 vs v35 
+
+Contingency table (counts):
+                                                     x_use
+y_use                                                 YES  NO
+  NONE, GRAMMER SCHOOL (1-6), OR GRAMMER SCHOOL (7-8) 831 688
+  HIGH SCHOOL (9-11)                                  566 356
+  HIGH SCHOOL (12)                                    821 310
+  COLLEGE, NOT GRADUATE                               342  96
+  COLLEGE GRADUATE                                    311  58
+
+Row percentages (%):
+                                                     x_use
+y_use                                                   YES    NO
+  NONE, GRAMMER SCHOOL (1-6), OR GRAMMER SCHOOL (7-8) 54.71 45.29
+  HIGH SCHOOL (9-11)                                  61.39 38.61
+  HIGH SCHOOL (12)                                    72.59 27.41
+  COLLEGE, NOT GRADUATE                               78.08 21.92
+  COLLEGE GRADUATE                                    84.28 15.72
+
+Chi-squared test:
+
+	Pearson's Chi-squared test
+
+data:  tbl
+X-squared = 198.82, df = 4, p-value < 2.2e-16
+
+
+================================================
+Crosstab: v138 vs v36 
+
+Contingency table (counts):
+                                                     x_use
+y_use                                                 YES  NO
+  NONE, GRAMMER SCHOOL (1-6), OR GRAMMER SCHOOL (7-8) 507 981
+  HIGH SCHOOL (9-11)                                  308 607
+  HIGH SCHOOL (12)                                    437 646
+  COLLEGE, NOT GRADUATE                               173 245
+  COLLEGE GRADUATE                                    194 155
+
+Row percentages (%):
+                                                     x_use
+y_use                                                   YES    NO
+  NONE, GRAMMER SCHOOL (1-6), OR GRAMMER SCHOOL (7-8) 34.07 65.93
+  HIGH SCHOOL (9-11)                                  33.66 66.34
+  HIGH SCHOOL (12)                                    40.35 59.65
+  COLLEGE, NOT GRADUATE                               41.39 58.61
+  COLLEGE GRADUATE                                    55.59 44.41
+
+Chi-squared test:
+
+	Pearson's Chi-squared test
+
+data:  tbl
+X-squared = 67.395, df = 4, p-value = 8.047e-14
+
+
+================================================
+Crosstab: v138 vs v37 
+
+Contingency table (counts):
+                                                     x_use
+y_use                                                 YES  NO
+  NONE, GRAMMER SCHOOL (1-6), OR GRAMMER SCHOOL (7-8) 761 719
+  HIGH SCHOOL (9-11)                                  398 508
+  HIGH SCHOOL (12)                                    350 756
+  COLLEGE, NOT GRADUATE                               114 312
+  COLLEGE GRADUATE                                     73 288
+
+Row percentages (%):
+                                                     x_use
+y_use                                                   YES    NO
+  NONE, GRAMMER SCHOOL (1-6), OR GRAMMER SCHOOL (7-8) 51.42 48.58
+  HIGH SCHOOL (9-11)                                  43.93 56.07
+  HIGH SCHOOL (12)                                    31.65 68.35
+  COLLEGE, NOT GRADUATE                               26.76 73.24
+  COLLEGE GRADUATE                                    20.22 79.78
+
+Chi-squared test:
+
+	Pearson's Chi-squared test
+
+data:  tbl
+X-squared = 208.76, df = 4, p-value < 2.2e-16
+
+
+================================================
+Crosstab: v138 vs v59 
+
+Contingency table (counts):
+                                                     x_use
+y_use                                                  YES   NO
+  NONE, GRAMMER SCHOOL (1-6), OR GRAMMER SCHOOL (7-8)  363 1120
+  HIGH SCHOOL (9-11)                                   200  714
+  HIGH SCHOOL (12)                                     184  942
+  COLLEGE, NOT GRADUATE                                 51  388
+  COLLEGE GRADUATE                                      28  331
+
+Row percentages (%):
+                                                     x_use
+y_use                                                   YES    NO
+  NONE, GRAMMER SCHOOL (1-6), OR GRAMMER SCHOOL (7-8) 24.48 75.52
+  HIGH SCHOOL (9-11)                                  21.88 78.12
+  HIGH SCHOOL (12)                                    16.34 83.66
+  COLLEGE, NOT GRADUATE                               11.62 88.38
+  COLLEGE GRADUATE                                     7.80 92.20
+
+Chi-squared test:
+
+	Pearson's Chi-squared test
+
+data:  tbl
+X-squared = 83.4, df = 4, p-value < 2.2e-16
+

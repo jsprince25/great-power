@@ -3,6 +3,12 @@
 
    1    5    8 
 2889 1512  532 
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+  1.000   1.000   1.000   1.683   1.000   8.000 
 
-       1        5        8 
-58.56477 30.65072 10.78451 
+   1    5    8 
+1265  207   28 
+                            Percentage_Answering
+Cases                        No No Answer Yes
+  Selected Community Leaders 14         2  84
+  National Cross Section     31        11  59

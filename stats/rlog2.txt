@@ -22,3 +22,243 @@ v22 Cut Aid Most Important Next Most Important Talked About Not Talked About
 data:  fls2214
 X-squared = 17.791, df = 6, p-value = 0.006775
 
+v22 and v15 cs
+           v15 Comm Threat Freedom U.S.
+v22 Cut Aid Most Important Next Most Important Talked About Not Talked About
+  Yes                  154                 111          107              915
+  Qualified             44                  31           37              186
+  No                   396                 303          269             1760
+
+	Pearson's Chi-squared test
+
+data:  fcs2214
+X-squared = 16.501, df = 6, p-value = 0.0113
+
+v22 and v15 ls
+           v15 Comm Threat Freedom U.S
+v22 Cut Aid Most Important Next Most Important Talked About Not Talked About
+  Yes                   86                  48           68              172
+  Qualified             54                  28           36               82
+  No                   214                 144          128              379
+
+	Pearson's Chi-squared test
+
+data:  fls2215
+X-squared = 6.7175, df = 6, p-value = 0.3478
+
+v22 and v35 cs
+           v35 Don't Censor Socialist Speaker
+v22 Cut Aid  Yes   No
+  Yes        749  450
+  Qualified  183   95
+  No        1722  809
+
+	Pearson's Chi-squared test
+
+data:  fcs2235
+X-squared = 11.294, df = 2, p-value = 0.003527
+
+v22 and v35 ls
+           v35 Don't Censor Socialist Speaker
+v22 Cut Aid Yes  No
+  Yes       319  56
+  Qualified 169  28
+  No        739 117
+
+	Pearson's Chi-squared test
+
+data:  fls2235
+X-squared = 0.34866, df = 2, p-value = 0.84
+
+v22 and v36 cs
+           v36 Don't Censor Socialist Teacher
+v22 Cut Aid  Yes   No
+  Yes        402  772
+  Qualified   83  192
+  No         996 1441
+
+	Pearson's Chi-squared test
+
+data:  fcs2236
+X-squared = 22.646, df = 2, p-value = 1.209e-05
+
+v22 and v36 ls
+           v36 Don't Censor Socialist Teacher
+v22 Cut Aid Yes  No
+  Yes       163 200
+  Qualified  93  93
+  No        439 387
+
+	Pearson's Chi-squared test
+
+data:  fls2236
+X-squared = 6.8821, df = 2, p-value = 0.03203
+
+v22 and v37 cs
+           v37 Censor Socialist Book
+v22 Cut Aid  Yes   No
+  Yes        502  671
+  Qualified  124  154
+  No         910 1561
+
+	Pearson's Chi-squared test
+
+data:  fcs2237
+X-squared = 15.612, df = 2, p-value = 0.0004073
+
+v22 and v37 ls
+           v37 Censor Socialist Book
+v22 Cut Aid Yes  No
+  Yes        79 291
+  Qualified  43 151
+  No        142 708
+
+	Pearson's Chi-squared test
+
+data:  fls2237
+X-squared = 5.4719, df = 2, p-value = 0.06483
+
+v22 and v42 cs
+           v42 American Comm Danger U.S. Rn
+v22 Cut Aid Very Great Great Some Hardly Any   No
+  Yes              281   306  473        128   30
+  Qualified         72    73  105         33    7
+  No               526   656 1104        265   73
+
+	Pearson's Chi-squared test
+
+data:  fcs2242
+X-squared = 10.005, df = 8, p-value = 0.2647
+
+v22 and v42 ls
+           v42 American Comm Danger U.S. Rn
+v22 Cut Aid Very Great Great Some Hardly Any  No
+  Yes               65   100  154         50   6
+  Qualified         35    39   94         29   5
+  No               123   176  404        139  22
+
+	Pearson's Chi-squared test
+
+data:  fls2242
+X-squared = 12.005, df = 8, p-value = 0.151
+
+v22 and v43 cs
+           v43 Why Comm Dangerous?
+v22 Cut Aid Espionage Sabotage Subversion and Conversion Dangerous, Other Not bc FBI Not bc McCathy Not, Other
+  Yes             106       69                       385              340         21              7        106
+  Qualified        27       28                        96               71          7              0         29
+  No              243      242                       821              657         71              9        234
+
+	Pearson's Chi-squared test
+
+data:  fcs2243
+X-squared = 22.83, df = 12, p-value = 0.0292
+
+v22 and v43 ls
+           v43 Why Comm Dangerous?
+v22 Cut Aid Espionage Sabotage Subversion and Conversion Dangerous, Other Not bc FBI Not bc McCathy Not, Other
+  Yes              28       18                       156              111         14              1         34
+  Qualified        13        9                        71               55          8              0         23
+  No               57       51                       304              244         50              5        100
+
+	Pearson's Chi-squared test
+
+data:  fls2243
+X-squared = 9.6383, df = 12, p-value = 0.6477
+
+v22 and v44 cs
+           v44 Can Cmnst be loyal Amrcn
+v22 Cut Aid  Yes Qualified   No
+  Yes         64        16 1154
+  Qualified   20        10  258
+  No         147        53 2444
+
+	Pearson's Chi-squared test
+
+data:  fcs2244
+X-squared = 7.9822, df = 4, p-value = 0.09223
+
+v22 and v44 ls
+           v44 Can Cmnst be loyal Amrcn
+v22 Cut Aid Yes Qualified  No
+  Yes        16        11 342
+  Qualified   5         9 187
+  No         43        29 785
+
+	Pearson's Chi-squared test
+
+data:  fls2244
+X-squared = 3.2685, df = 4, p-value = 0.5139
+
+skipping v45 out of confusion with the table, multiple rounds of questions, etcv22 and v46 cs
+           v46 What do Comm Believe
+v22 Cut Aid Russia/World Dom Loss Individual Rights Gov Ownership Property Dictatorship Egalitarian Anti-Religon Immoral/Amoral Slogan
+  Yes                    163                     99                    213          222         190          297             67     97
+  Qualified               49                     33                     57           73          46           77             11     17
+  No                     359                    265                    548          525         470          723            137    186
+
+	Pearson's Chi-squared test
+
+data:  fcs2246
+X-squared = 15.597, df = 14, p-value = 0.3386
+
+v22 and v46 ls
+           v46 What do Comm Believe
+v22 Cut Aid Russia/World Dom Loss Individual Rights Gov Ownership Property Dictatorship Egalitarian Anti-Religon Immoral/Amoral Slogan
+  Yes                     51                     45                     83          119          75           90             22     66
+  Qualified               23                     32                     52           83          34           71             13     31
+  No                     120                     95                    229          307         184          205             52    143
+
+	Pearson's Chi-squared test
+
+data:  fls2246
+X-squared = 15.633, df = 14, p-value = 0.3363
+
+v22 and v47 cs
+           v47 Have you known a Comm
+v22 Cut Aid  Yes   No
+  Yes        225 1071
+  Qualified   59  239
+  No         491 2255
+
+	Pearson's Chi-squared test
+
+data:  fcs2247
+X-squared = 0.98422, df = 2, p-value = 0.6113
+
+v22 and v47 ls
+           v47 Have you known a Comm
+v22 Cut Aid Yes  No
+  Yes       163 213
+  Qualified  99 102
+  No        383 485
+
+	Pearson's Chi-squared test
+
+data:  fls2247
+X-squared = 2.0775, df = 2, p-value = 0.3539
+
+v22 and v48 cs
+           v48 How could you tell/know?
+v22 Cut Aid It was admitted What was Said/Read Groups/Organizations Deviant/Strange Behavior
+  Yes                    41                140                   15                       39
+  Qualified              10                 44                    4                        5
+  No                     98                310                   35                       72
+
+	Pearson's Chi-squared test
+
+data:  fcs2248
+X-squared = 4.124, df = 6, p-value = 0.6599
+
+v22 and v48 ls
+           v48 How could you tell/know?
+v22 Cut Aid It was admitted What was Said/Read Groups/Organizations Deviant/Strange Behavior
+  Yes                    29                109                   13                       23
+  Qualified              21                 61                   10                       18
+  No                    113                225                   33                       38
+
+	Pearson's Chi-squared test
+
+data:  fls2248
+X-squared = 13.326, df = 6, p-value = 0.03814
+

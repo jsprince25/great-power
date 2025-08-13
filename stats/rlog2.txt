@@ -1,0 +1,24 @@
+v22 and v14 cs
+           v14 Communists in U.S.
+v22 Cut Aid Most Important Next Most Important Talked About Not Talked About
+  Yes                  152                 173          264              699
+  Qualified             46                  50           78              124
+  No                   324                 391          617             1402
+
+	Pearson's Chi-squared test
+
+data:  fcs2214
+X-squared = 16.501, df = 6, p-value = 0.0113
+
+v22 and v14 ls
+           v14 Communists in U.S.
+v22 Cut Aid Most Important Next Most Important Talked About Not Talked About
+  Yes                   53                  72          132              117
+  Qualified             41                  31           74               55
+  No                   105                 118          354              289
+
+	Pearson's Chi-squared test
+
+data:  fls2214
+X-squared = 17.791, df = 6, p-value = 0.006775
+

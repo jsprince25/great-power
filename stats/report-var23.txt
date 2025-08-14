@@ -1,0 +1,604 @@
+v23 and v14 cs
+                           v14 Communists in U.S.
+v23 Why or Why not Cut Aid  Most Important Next Most Important Talked About Not Talked About
+  Yes, Money for home                   28                  45           70              259
+  Yes, Waste/Ally Hostility            106                 121          165              360
+  No, Altruistic                       118                 124          201              507
+  No, Helps Us                         193                 254          407              829
+  Other                                 41                  43           77              196
+
+	Pearson's Chi-squared test
+
+data:  fcs2314
+X-squared = 44.798, df = 12, p-value = 1.116e-05
+
+v23 and v14 ls
+                           v14 Communists in U.S.
+v23 Why or Why not Cut Aid  Most Important Next Most Important Talked About Not Talked About
+  Yes, Money for home                    7                   8           15               14
+  Yes, Waste/Ally Hostility             38                  55          103               83
+  No, Altruistic                        25                  22           56               51
+  No, Helps Us                          73                  93          278              209
+  Other                                 22                  20           62               65
+
+	Pearson's Chi-squared test
+
+data:  fls2314
+X-squared = 14.622, df = 12, p-value = 0.2628
+
+v23 and v15 cs
+                           v15 Comm Threat Freedom U.S.
+v23 Why or Why not Cut Aid  Most Important Next Most Important Talked About Not Talked About
+  Yes, Money for home                   37                  32           25              307
+  Yes, Waste/Ally Hostility             97                  70           68              516
+  No, Altruistic                       141                  95           80              631
+  No, Helps Us                         251                 197          181             1052
+  Other                                 54                  31           33              238
+
+	Pearson's Chi-squared test
+
+data:  fcs2214
+X-squared = 16.501, df = 6, p-value = 0.0113
+
+v23 and v15 ls
+                           v15 Comm Threat Freedom U.S
+v23 Why or Why not Cut Aid  Most Important Next Most Important Talked About Not Talked About
+  Yes, Money for home                   11                   1            7               25
+  Yes, Waste/Ally Hostility             64                  43           45              127
+  No, Altruistic                        37                  25           16               75
+  No, Helps Us                         163                 111           97              283
+  Other                                 40                  21           32               75
+
+	Pearson's Chi-squared test
+
+data:  fls2215
+X-squared = 13.78, df = 12, p-value = 0.3149
+
+v23 and v35 cs
+                           v35 Don't Censor Socialist Speaker
+v23 Why or Why not Cut Aid   Yes   No
+  Yes, Money for home        221  144
+  Yes, Waste/Ally Hostility  432  275
+  No, Altruistic             597  277
+  No, Helps Us              1086  491
+  Other                      218  101
+
+	Pearson's Chi-squared test
+
+data:  fcs2235
+X-squared = 20.763, df = 4, p-value = 0.0003529
+
+v23 and v35 ls
+                           v35 Don't Censor Socialist Speaker
+v23 Why or Why not Cut Aid  Yes  No
+  Yes, Money for home        38   6
+  Yes, Waste/Ally Hostility 239  41
+  No, Altruistic            131  22
+  No, Helps Us              557  85
+  Other                     145  26
+
+	Pearson's Chi-squared test
+
+data:  fls2235
+X-squared = 0.63285, df = 4, p-value = 0.9593
+
+v23 and v36 cs
+                           v36 Don't Censor Socialist Teacher
+v23 Why or Why not Cut Aid  Yes  No
+  Yes, Money for home       118 240
+  Yes, Waste/Ally Hostility 219 470
+  No, Altruistic            369 466
+  No, Helps Us              607 912
+  Other                     129 189
+
+	Pearson's Chi-squared test
+
+data:  fcs2236
+X-squared = 30.926, df = 4, p-value = 3.169e-06
+
+v23 and v36 ls
+                           v36 Don't Censor Socialist Teacher
+v23 Why or Why not Cut Aid  Yes  No
+  Yes, Money for home        18  25
+  Yes, Waste/Ally Hostility 119 150
+  No, Altruistic             84  65
+  No, Helps Us              331 291
+  Other                      80  86
+
+	Pearson's Chi-squared test
+
+data:  fls2236
+X-squared = 9.7453, df = 4, p-value = 0.04494
+
+v23 and v37 cs
+                           v37 Censor Socialist Book
+v23 Why or Why not Cut Aid  Yes  No
+  Yes, Money for home       163 200
+  Yes, Waste/Ally Hostility 288 400
+  No, Altruistic            302 543
+  No, Helps Us              567 980
+  Other                     123 196
+
+	Pearson's Chi-squared test
+
+data:  fcs2237
+X-squared = 14.508, df = 4, p-value = 0.005839
+
+v23 and v37 ls
+                           v37 Censor Socialist Book
+v23 Why or Why not Cut Aid  Yes  No
+  Yes, Money for home         7  36
+  Yes, Waste/Ally Hostility  58 217
+  No, Altruistic             31 122
+  No, Helps Us              101 538
+  Other                      32 136
+
+	Pearson's Chi-squared test
+
+data:  fls2237
+X-squared = 4.6159, df = 4, p-value = 0.329
+
+v23 and v42 cs
+                           v42 American Comm Danger U.S. Rn
+v23 Why or Why not Cut Aid  Very Great Great Some Hardly Any  No
+  Yes, Money for home               77   100  149         36  13
+  Yes, Waste/Ally Hostility        168   186  277         78  15
+  No, Altruistic                   186   229  379         84  24
+  No, Helps Us                     317   400  686        176  45
+  Other                             72    77  147         31   8
+
+	Pearson's Chi-squared test
+
+data:  fcs2242
+X-squared = 11.494, df = 16, p-value = 0.778
+
+v23 and v42 ls
+                           v42 American Comm Danger U.S. Rn
+v23 Why or Why not Cut Aid  Very Great Great Some Hardly Any  No
+  Yes, Money for home                8    15   15          5   1
+  Yes, Waste/Ally Hostility         51    76  114         36   5
+  No, Altruistic                    33    31   62         29   0
+  No, Helps Us                      89   135  305        105  17
+  Other                             17    35   85         25   4
+
+	Pearson's Chi-squared test
+
+data:  fls2242
+X-squared = 28.49, df = 16, p-value = 0.02761
+
+v23 and v43 cs
+                           v43 Why Comm Dangerous?
+v23 Why or Why not Cut Aid  Espionage Sabotage Subversion and Conversion Dangerous, Other
+  Yes, Money for home              37       20                       120              100
+  Yes, Waste/Ally Hostility        54       45                       241              207
+  No, Altruistic                   84       90                       267              248
+  No, Helps Us                    152      156                       556              376
+  Other                            35       13                        82               97
+                           v43 Why Comm Dangerous?
+v23 Why or Why not Cut Aid  Not bc FBI Not bc McCathy Not, Other
+  Yes, Money for home                5              1         37
+  Yes, Waste/Ally Hostility         17              7         64
+  No, Altruistic                    22              3         77
+  No, Helps Us                      50              8        151
+  Other                              3              0         23
+
+	Pearson's Chi-squared test
+
+data:  fcs2243
+X-squared = 57.077, df = 24, p-value = 0.0001632
+
+v23 and v43 ls
+                           v43 Why Comm Dangerous?
+v23 Why or Why not Cut Aid  Espionage Sabotage Subversion and Conversion Dangerous, Other
+  Yes, Money for home               0        2                        16               17
+  Yes, Waste/Ally Hostility        26       13                       126               80
+  No, Altruistic                    7       14                        65               37
+  No, Helps Us                     48       40                       229              179
+  Other                             6        7                        53               53
+                           v43 Why Comm Dangerous?
+v23 Why or Why not Cut Aid  Not bc FBI Not bc McCathy Not, Other
+  Yes, Money for home                1              0          4
+  Yes, Waste/Ally Hostility         10              1         24
+  No, Altruistic                     8              1         21
+  No, Helps Us                      39              4         75
+  Other                              8              0         18
+
+	Pearson's Chi-squared test
+
+data:  fls2243
+X-squared = 30.097, df = 24, p-value = 0.1816
+
+v23 and v44 cs
+                           v44 Can Cmnst be loyal Amrcn
+v23 Why or Why not Cut Aid   Yes Qualified   No
+  Yes, Money for home         17         3  366
+  Yes, Waste/Ally Hostility   31        10  683
+  No, Altruistic              54        19  839
+  No, Helps Us                86        34 1515
+  Other                       25         7  311
+
+	Pearson's Chi-squared test
+
+data:  fcs2244
+X-squared = 9.8913, df = 8, p-value = 0.2727
+
+v23 and v44 ls
+                           v44 Can Cmnst be loyal Amrcn
+v23 Why or Why not Cut Aid  Yes Qualified  No
+  Yes, Money for home         4         0  37
+  Yes, Waste/Ally Hostility  11         9 259
+  No, Altruistic              6         5 142
+  No, Helps Us               29        21 595
+  Other                      13         9 146
+
+	Pearson's Chi-squared test
+
+data:  fls2244
+X-squared = 9.6191, df = 8, p-value = 0.2928
+
+skipping v45 out of confusion with the table, multiple rounds of questions, etc
+
+v23 and v46 cs
+                           v46 What do Comm Believe
+v23 Why or Why not Cut Aid  Russia/World Dom Loss Individual Rights Gov Ownership Property
+  Yes, Money for home                     51                     28                     54
+  Yes, Waste/Ally Hostility              100                     61                    136
+  No, Altruistic                         116                     87                    160
+  No, Helps Us                           234                    184                    379
+  Other                                   36                     28                     59
+                           v46 What do Comm Believe
+v23 Why or Why not Cut Aid  Dictatorship Egalitarian Anti-Religon Immoral/Amoral Slogan
+  Yes, Money for home                 57          60           83             25     22
+  Yes, Waste/Ally Hostility          141         113          181             45     55
+  No, Altruistic                     168         166          249             47     56
+  No, Helps Us                       345         317          463             89    124
+  Other                               59          41           85             15     34
+
+	Pearson's Chi-squared test
+
+data:  fcs2246
+X-squared = 29.308, df = 28, p-value = 0.397
+
+v23 and v46 ls
+                           v46 What do Comm Believe
+v23 Why or Why not Cut Aid  Russia/World Dom Loss Individual Rights Gov Ownership Property
+  Yes, Money for home                      4                      8                     15
+  Yes, Waste/Ally Hostility               41                     36                     60
+  No, Altruistic                          21                     18                     45
+  No, Helps Us                            89                     75                    171
+  Other                                   24                     10                     41
+                           v46 What do Comm Believe
+v23 Why or Why not Cut Aid  Dictatorship Egalitarian Anti-Religon Immoral/Amoral Slogan
+  Yes, Money for home                 14          10           11              1      9
+  Yes, Waste/Ally Hostility           95          56           67             19     46
+  No, Altruistic                      56          34           52             10     19
+  No, Helps Us                       234         149          142             38    115
+  Other                               52          25           39             11     26
+
+	Pearson's Chi-squared test
+
+data:  fls2246
+X-squared = 23.099, df = 28, p-value = 0.7281
+
+v23 and v47 cs
+                           v47 Have you known a Comm
+v23 Why or Why not Cut Aid   Yes   No
+  Yes, Money for home         49  356
+  Yes, Waste/Ally Hostility  152  603
+  No, Altruistic             154  800
+  No, Helps Us               319 1370
+  Other                       66  295
+
+	Pearson's Chi-squared test
+
+data:  fcs2247
+X-squared = 15.033, df = 4, p-value = 0.004633
+
+v23 and v47 ls
+                           v47 Have you known a Comm
+v23 Why or Why not Cut Aid  Yes  No
+  Yes, Money for home        10  34
+  Yes, Waste/Ally Hostility 118 163
+  No, Altruistic             62  92
+  No, Helps Us              294 359
+  Other                      86  84
+
+	Pearson's Chi-squared test
+
+data:  fls2247
+X-squared = 12.675, df = 4, p-value = 0.01298
+
+v23 and v48 cs
+                           v48 How could you tell/know?
+v23 Why or Why not Cut Aid  It was admitted What was Said/Read Groups/Organizations
+  Yes, Money for home                    14                 22                    3
+  Yes, Waste/Ally Hostility              25                102                    9
+  No, Altruistic                         38                 92                   11
+  No, Helps Us                           59                211                   23
+  Other                                  10                 41                    6
+                           v48 How could you tell/know?
+v23 Why or Why not Cut Aid  Deviant/Strange Behavior
+  Yes, Money for home                             13
+  Yes, Waste/Ally Hostility                       22
+  No, Altruistic                                  25
+  No, Helps Us                                    40
+  Other                                           12
+
+	Pearson's Chi-squared test
+
+data:  fcs2248
+X-squared = 16.023, df = 12, p-value = 0.1902
+
+v23 and v48 ls
+                           v48 How could you tell/know?
+v23 Why or Why not Cut Aid  It was admitted What was Said/Read Groups/Organizations
+  Yes, Money for home                     3                  7                    2
+  Yes, Waste/Ally Hostility              17                 76                   11
+  No, Altruistic                         21                 37                    3
+  No, Helps Us                           87                174                   24
+  Other                                  24                 52                    7
+                           v48 How could you tell/know?
+v23 Why or Why not Cut Aid  Deviant/Strange Behavior
+  Yes, Money for home                              0
+  Yes, Waste/Ally Hostility                       19
+  No, Altruistic                                   6
+  No, Helps Us                                    29
+  Other                                           10
+
+	Pearson's Chi-squared test
+
+data:  fls2248
+X-squared = 16.038, df = 12, p-value = 0.1895
+
+v23 and v49 cs
+                           v49 Your city asked you to report Comm to FBI
+v23 Why or Why not Cut Aid   Yes   No
+  Yes, Money for home         35  341
+  Yes, Waste/Ally Hostility   73  640
+  No, Altruistic              80  796
+  No, Helps Us               148 1429
+  Other                       33  298
+
+	Pearson's Chi-squared test
+
+data:  fcs2249
+X-squared = 0.70993, df = 4, p-value = 0.9501
+
+v23 and v49 ls
+                           v49 Your city asked you to report Comm to FBI
+v23 Why or Why not Cut Aid  Yes  No
+  Yes, Money for home        10  34
+  Yes, Waste/Ally Hostility 118 163
+  No, Altruistic             62  92
+  No, Helps Us              294 359
+  Other                      86  84
+
+	Pearson's Chi-squared test
+
+data:  fls2249
+X-squared = 12.675, df = 4, p-value = 0.01298
+
+v23 and v50 cs
+                           v50 Heard of other cities citizens asked to report Comm to FBI
+v23 Why or Why not Cut Aid  Yes  No
+  Yes, Money for home        35 109
+  Yes, Waste/Ally Hostility  73 248
+  No, Altruistic             80 297
+  No, Helps Us              148 578
+  Other                      33 114
+
+	Pearson's Chi-squared test
+
+data:  fcs2250
+X-squared = 1.5936, df = 4, p-value = 0.8099
+
+v23 and v50 ls
+                           v50 Heard of other cities citizens asked to report Comm to FBI
+v23 Why or Why not Cut Aid  Yes  No
+  Yes, Money for home        11  19
+  Yes, Waste/Ally Hostility  73 125
+  No, Altruistic             37  72
+  No, Helps Us              162 313
+  Other                      48  68
+
+	Pearson's Chi-squared test
+
+data:  fls2250
+X-squared = 2.433, df = 4, p-value = 0.6567
+
+v23 and v51 cs
+                           v51 Discussed v50 idea with anyone
+v23 Why or Why not Cut Aid   Yes   No
+  Yes, Money for home        371    7
+  Yes, Waste/Ally Hostility  683   30
+  No, Altruistic             874   25
+  No, Helps Us              1542   59
+  Other                      329   14
+
+	Pearson's Chi-squared test
+
+data:  fcs2251
+X-squared = 6.039, df = 4, p-value = 0.1963
+
+v23 and v51 ls
+                           v51 Discussed v50 idea with anyone
+v23 Why or Why not Cut Aid  Yes  No
+  Yes, Money for home        33   6
+  Yes, Waste/Ally Hostility 209  48
+  No, Altruistic            118  25
+  No, Helps Us              493  99
+  Other                     123  30
+
+	Pearson's Chi-squared test
+
+data:  fls2251
+X-squared = 1.0789, df = 4, p-value = 0.8976
+
+v23 and v52 cs
+                           v52 Do you think reporting neighbors a good idea
+v23 Why or Why not Cut Aid   Yes   No
+  Yes, Money for home        309   72
+  Yes, Waste/Ally Hostility  563  153
+  No, Altruistic             730  175
+  No, Helps Us              1214  390
+  Other                      258   78
+
+	Pearson's Chi-squared test
+
+data:  fcs2252
+X-squared = 11.33, df = 4, p-value = 0.0231
+
+v23 and v52 ls
+                           v52 Do you think reporting neighbors a good idea
+v23 Why or Why not Cut Aid  Yes  No
+  Yes, Money for home        26  16
+  Yes, Waste/Ally Hostility 185  90
+  No, Altruistic            111  38
+  No, Helps Us              411 216
+  Other                     100  67
+
+	Pearson's Chi-squared test
+
+data:  fls2252
+X-squared = 8.1557, df = 4, p-value = 0.08604
+
+v23 and v53 cs
+                           v53 Is v52 dangerous, how?
+v23 Why or Why not Cut Aid  No Dangers Fear/Reprisal Hurt Innocent/Wrongly Accused
+  Yes, Money for home              146            90                            25
+  Yes, Waste/Ally Hostility        244           145                            74
+  No, Altruistic                   342           173                            99
+  No, Helps Us                     562           295                           205
+  Other                            115            72                            24
+                           v53 Is v52 dangerous, how?
+v23 Why or Why not Cut Aid  Malicious Reporting Atmosphere Suspicion/Mistrust
+  Yes, Money for home                         7                             8
+  Yes, Waste/Ally Hostility                  25                            20
+  No, Altruistic                             25                            29
+  No, Helps Us                               39                            59
+  Other                                       6                             6
+                           v53 Is v52 dangerous, how?
+v23 Why or Why not Cut Aid  Inefficent/Wasteful Un-American/Undemocratic Other Danger
+  Yes, Money for home                         1                        1           20
+  Yes, Waste/Ally Hostility                  10                        4           35
+  No, Altruistic                              8                        2           31
+  No, Helps Us                                6                        8           64
+  Other                                       1                        3           24
+
+	Pearson's Chi-squared test
+
+data:  fcs2253
+X-squared = 55.985, df = 28, p-value = 0.001292
+
+v23 and v53 ls
+                           v53 Is v52 dangerous, how?
+v23 Why or Why not Cut Aid  No Dangers Fear/Reprisal Hurt Innocent/Wrongly Accused
+  Yes, Money for home               15             5                             3
+  Yes, Waste/Ally Hostility         85            16                            40
+  No, Altruistic                    53            12                            26
+  No, Helps Us                     167            25                           119
+  Other                             48             6                            28
+                           v53 Is v52 dangerous, how?
+v23 Why or Why not Cut Aid  Malicious Reporting Atmosphere Suspicion/Mistrust
+  Yes, Money for home                         1                             2
+  Yes, Waste/Ally Hostility                  23                             8
+  No, Altruistic                             14                             4
+  No, Helps Us                               65                            23
+  Other                                      10                             4
+                           v53 Is v52 dangerous, how?
+v23 Why or Why not Cut Aid  Inefficent/Wasteful Un-American/Undemocratic Other Danger
+  Yes, Money for home                         0                        0            1
+  Yes, Waste/Ally Hostility                   3                       10           16
+  No, Altruistic                              2                        3            8
+  No, Helps Us                                8                       20           24
+  Other                                       1                        4            7
+
+	Pearson's Chi-squared test
+
+data:  fls2253
+X-squared = 27.961, df = 28, p-value = 0.4665
+
+v23 and v55 cs
+                           v55 How is reporting aquaintances dangerous?
+v23 Why or Why not Cut Aid  Fear/Reprisal Hurt Innocent/Wrongly Accused Malicious Reporting
+  Yes, Money for home                   7                            25                   7
+  Yes, Waste/Ally Hostility            13                            60                  31
+  No, Altruistic                       10                            74                  31
+  No, Helps Us                         18                           142                  91
+  Other                                 6                            19                  11
+                           v55 How is reporting aquaintances dangerous?
+v23 Why or Why not Cut Aid  Atmosphere Suspicion/Mistrust Inefficent/Wasteful
+  Yes, Money for home                                  17                   3
+  Yes, Waste/Ally Hostility                            30                  14
+  No, Altruistic                                       48                  14
+  No, Helps Us                                        117                  41
+  Other                                                21                  10
+                           v55 How is reporting aquaintances dangerous?
+v23 Why or Why not Cut Aid  Un-American/Undemocratic Other Danger
+  Yes, Money for home                              7           15
+  Yes, Waste/Ally Hostility                       30           11
+  No, Altruistic                                  25           25
+  No, Helps Us                                    65           35
+  Other                                           11           15
+
+	Pearson's Chi-squared test
+
+data:  fcs2255
+X-squared = 44.965, df = 24, p-value = 0.00588
+
+v23 and v55 ls
+                           v55 How is reporting aquaintances dangerous?
+v23 Why or Why not Cut Aid  Fear/Reprisal Hurt Innocent/Wrongly Accused Malicious Reporting
+  Yes, Money for home                   0                             7                   5
+  Yes, Waste/Ally Hostility             1                            28                  32
+  No, Altruistic                        0                            10                  14
+  No, Helps Us                          3                            73                  72
+  Other                                 2                            19                  24
+                           v55 How is reporting aquaintances dangerous?
+v23 Why or Why not Cut Aid  Atmosphere Suspicion/Mistrust Inefficent/Wasteful
+  Yes, Money for home                                   1                   4
+  Yes, Waste/Ally Hostility                            23                  13
+  No, Altruistic                                       11                   4
+  No, Helps Us                                         59                  31
+  Other                                                20                   9
+                           v55 How is reporting aquaintances dangerous?
+v23 Why or Why not Cut Aid  Un-American/Undemocratic Other Danger
+  Yes, Money for home                              4            1
+  Yes, Waste/Ally Hostility                       23            3
+  No, Altruistic                                  12            2
+  No, Helps Us                                    71           14
+  Other                                           17            3
+
+	Pearson's Chi-squared test
+
+data:  fls2255
+X-squared = 10.99, df = 24, p-value = 0.9891
+
+v23 and v57 cs
+                           v57 To catch Comm, Can gov listen to phone calls?
+v23 Why or Why not Cut Aid   Yes   No
+  Yes, Money for home        262  119
+  Yes, Waste/Ally Hostility  524  195
+  No, Altruistic             615  268
+  No, Helps Us              1101  491
+  Other                      236   97
+
+	Pearson's Chi-squared test
+
+data:  fcs2257
+X-squared = 3.8206, df = 4, p-value = 0.4308
+
+v23 and v57 ls
+                           v57 To catch Comm, Can gov listen to phone calls?
+v23 Why or Why not Cut Aid  Yes  No
+  Yes, Money for home        27  16
+  Yes, Waste/Ally Hostility 202  65
+  No, Altruistic             92  54
+  No, Helps Us              368 250
+  Other                     103  57
+
+	Pearson's Chi-squared test
+
+data:  fls2257
+X-squared = 21.19, df = 4, p-value = 0.0002904
+

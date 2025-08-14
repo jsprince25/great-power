@@ -190,7 +190,9 @@ v22 Cut Aid Yes Qualified  No
 data:  fls2244
 X-squared = 3.2685, df = 4, p-value = 0.5139
 
-skipping v45 out of confusion with the table, multiple rounds of questions, etcv22 and v46 cs
+skipping v45 out of confusion with the table, multiple rounds of questions, etc
+
+v22 and v46 cs
            v46 What do Comm Believe
 v22 Cut Aid Russia/World Dom Loss Individual Rights Gov Ownership Property Dictatorship Egalitarian Anti-Religon Immoral/Amoral Slogan
   Yes                    163                     99                    213          222         190          297             67     97
@@ -261,4 +263,182 @@ v22 Cut Aid It was admitted What was Said/Read Groups/Organizations Deviant/Stra
 
 data:  fls2248
 X-squared = 13.326, df = 6, p-value = 0.03814
+
+v22 and v49 cs
+           v49 Your city asked you to report Comm to FBI
+v22 Cut Aid  Yes   No
+  Yes        122 1085
+  Qualified   28  244
+  No         237 2307
+
+	Pearson's Chi-squared test
+
+data:  fcs2249
+X-squared = 0.74272, df = 2, p-value = 0.6898
+
+v22 and v49 ls
+           v49 Your city asked you to report Comm to FBI
+v22 Cut Aid Yes  No
+  Yes       163 213
+  Qualified  99 102
+  No        383 485
+
+	Pearson's Chi-squared test
+
+data:  fls2249
+X-squared = 2.0775, df = 2, p-value = 0.3539
+
+v22 and v50 cs
+           v50 Heard of other cities citizens asked to report Comm to FBI
+v22 Cut Aid Yes  No
+  Yes       122 405
+  Qualified  28 117
+  No        237 889
+
+	Pearson's Chi-squared test
+
+data:  fcs2250
+X-squared = 1.3965, df = 2, p-value = 0.4975
+
+v22 and v50 ls
+           v50 Heard of other cities citizens asked to report Comm to FBI
+v22 Cut Aid Yes  No
+  Yes        99 160
+  Qualified  57  90
+  No        215 406
+
+	Pearson's Chi-squared test
+
+data:  fls2250
+X-squared = 1.5503, df = 2, p-value = 0.4606
+
+v22 and v51 cs
+           v51 Discussed v50 idea with anyone
+v22 Cut Aid  Yes   No
+  Yes       1177   45
+  Qualified  271   12
+  No        2510   88
+
+	Pearson's Chi-squared test
+
+data:  fcs2251
+X-squared = 0.65731, df = 2, p-value = 0.7199
+
+v22 and v51 ls
+           v51 Discussed v50 idea with anyone
+v22 Cut Aid Yes  No
+  Yes       278  63
+  Qualified 145  30
+  No        656 137
+
+	Pearson's Chi-squared test
+
+data:  fls2251
+X-squared = 0.26218, df = 2, p-value = 0.8771
+
+v22 and v52 cs
+           v52 Do you think reporting neighbors a good idea
+v22 Cut Aid  Yes   No
+  Yes        967  253
+  Qualified  215   64
+  No        2023  574
+
+	Pearson's Chi-squared test
+
+data:  fcs2252
+X-squared = 1.1557, df = 2, p-value = 0.5611
+
+v22 and v52 ls
+           v52 Do you think reporting neighbors a good idea
+v22 Cut Aid Yes  No
+  Yes       243 123
+  Qualified 136  66
+  No        548 286
+
+	Pearson's Chi-squared test
+
+data:  fls2252
+X-squared = 0.20689, df = 2, p-value = 0.9017
+
+v22 and v53 cs
+           v53 Is v52 dangerous, how?
+v22 Cut Aid No Dangers Fear/Reprisal Hurt Innocent/Wrongly Accused Malicious Reporting Atmosphere Suspicion/Mistrust Inefficent/Wasteful Un-American/Undemocratic
+  Yes              434           250                           109                  34                            31                  11                        7
+  Qualified         98            55                            25                  13                            10                   0                        3
+  No               937           496                           306                  63                            81                  14                       10
+           v53 Is v52 dangerous, how?
+v22 Cut Aid Other Danger
+  Yes                 74
+  Qualified            7
+  No                  99
+
+	Pearson's Chi-squared test
+
+data:  fcs2253
+X-squared = 32.478, df = 14, p-value = 0.003424
+
+v22 and v53 ls
+           v53 Is v52 dangerous, how?
+v22 Cut Aid No Dangers Fear/Reprisal Hurt Innocent/Wrongly Accused Malicious Reporting Atmosphere Suspicion/Mistrust Inefficent/Wasteful Un-American/Undemocratic
+  Yes              116            20                            53                  26                             9                   3                       11
+  Qualified         60            11                            41                  17                             5                   2                        8
+  No               232            38                           155                  83                            30                  12                       24
+           v53 Is v52 dangerous, how?
+v22 Cut Aid Other Danger
+  Yes                 19
+  Qualified            9
+  No                  32
+
+	Pearson's Chi-squared test
+
+data:  fls2253
+X-squared = 11.13, df = 14, p-value = 0.6758
+
+v22 and v55 cs
+           v55 How is reporting aquaintances dangerous?
+v22 Cut Aid Fear/Reprisal Hurt Innocent/Wrongly Accused Malicious Reporting Atmosphere Suspicion/Mistrust Inefficent/Wasteful Un-American/Undemocratic Other Danger
+  Yes                  21                            91                  41                            53                  21                       37           35
+  Qualified             4                            24                  11                            19                   3                       16            7
+  No                   29                           212                 119                           166                  58                       90           64
+
+	Pearson's Chi-squared test
+
+data:  fcs2255
+X-squared = 14.86, df = 12, p-value = 0.2492
+
+v22 and v55 ls
+           v55 How is reporting aquaintances dangerous?
+v22 Cut Aid Fear/Reprisal Hurt Innocent/Wrongly Accused Malicious Reporting Atmosphere Suspicion/Mistrust Inefficent/Wasteful Un-American/Undemocratic Other Danger
+  Yes                   2                            35                  44                            29                  18                       31            6
+  Qualified             1                            25                  20                            19                   8                       19            3
+  No                    4                            94                  97                            85                  41                       85           17
+
+	Pearson's Chi-squared test
+
+data:  fls2255
+X-squared = 2.9032, df = 12, p-value = 0.9962
+
+v22 and v57 cs
+           v57 To catch Comm, Can gov listen to phone calls?
+v22 Cut Aid  Yes   No
+  Yes        873  348
+  Qualified  203   77
+  No        1793  777
+
+	Pearson's Chi-squared test
+
+data:  fcs2257
+X-squared = 1.7867, df = 2, p-value = 0.4093
+
+v22 and v57 ls
+           v57 To catch Comm, Can gov listen to phone calls?
+v22 Cut Aid Yes  No
+  Yes       264  93
+  Qualified 139  52
+  No        491 329
+
+	Pearson's Chi-squared test
+
+data:  fls2257
+X-squared = 27.153, df = 2, p-value = 1.27e-06
 

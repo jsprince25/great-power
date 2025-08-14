@@ -1,4 +1,4 @@
-sink("rlog2.txt")
+sink("report-var22.txt")
 
 setwd("/Users/josephprince/Desktop/Github/great-power/stats")
 cs <- readRDS("stouffer_cs.rds")
@@ -132,8 +132,8 @@ cat("v22 and v44 ls\n")
 fls2244
 chisq.test(fls2244)
 
-cat("skipping v45 out of confusion with the table, multiple rounds of questions, etc" )
-
+cat("skipping v45 out of confusion with the table, multiple rounds of questions, etc\n" )
+cat("\n")
 #messy again
 
 csv46 <- data.frame(
@@ -199,5 +199,127 @@ dimnames(fls2248) <- list("v22 Cut Aid"= c("Yes","Qualified","No"), "v48 How cou
 cat("v22 and v48 ls\n")
 fls2248
 chisq.test(fls2248)
+
+cs2249<- xtabs(~ v22 + v49, data= cs)
+fcs2249<- cs2249[-c(4,5),-c(3,4)]
+dimnames(fcs2249) <- list("v22 Cut Aid"= c("Yes","Qualified","No"), "v49 Your city asked you to report Comm to FBI"= c("Yes","No"))
+cat("v22 and v49 cs\n")
+fcs2249
+chisq.test(fcs2249)
+
+ls2249 <- xtabs(~v22 + v49, data= ls)
+fls2249 <- ls2247[-c(4,5),-c(3,4)]
+dimnames(fls2249) <- list("v22 Cut Aid"= c("Yes","Qualified","No"), "v49 Your city asked you to report Comm to FBI"= c("Yes","No"))
+cat("v22 and v49 ls\n")
+fls2249
+chisq.test(fls2249)
+
+cs2250<- xtabs(~ v22 + v50, data= cs)
+fcs2250<- cs2250[-c(4,5),-c(3,4,5)]
+dimnames(fcs2250) <- list("v22 Cut Aid"= c("Yes","Qualified","No"), "v50 Heard of other cities citizens asked to report Comm to FBI"= c("Yes","No"))
+cat("v22 and v50 cs\n")
+fcs2250
+chisq.test(fcs2250)
+
+ls2250 <- xtabs(~v22 + v50, data= ls)
+fls2250 <- ls2250[-c(4,5),-c(3,4,5)]
+dimnames(fls2250) <- list("v22 Cut Aid"= c("Yes","Qualified","No"), "v50 Heard of other cities citizens asked to report Comm to FBI"= c("Yes","No"))
+cat("v22 and v50 ls\n")
+fls2250
+chisq.test(fls2250)
+
+cs2251<- xtabs(~ v22 + v51, data= cs)
+fcs2251<- cs2251[-c(4,5),-c(3,4,5)]
+dimnames(fcs2251) <- list("v22 Cut Aid"= c("Yes","Qualified","No"), "v51 Discussed v50 idea with anyone"= c("Yes","No"))
+cat("v22 and v51 cs\n")
+fcs2251
+chisq.test(fcs2251)
+
+ls2251 <- xtabs(~v22 + v51, data= ls)
+fls2251 <- ls2251[-c(4,5),-c(3,4,5)]
+dimnames(fls2251) <- list("v22 Cut Aid"= c("Yes","Qualified","No"), "v51 Discussed v50 idea with anyone"= c("Yes","No"))
+cat("v22 and v51 ls\n")
+fls2251
+chisq.test(fls2251)
+
+cs2252<- xtabs(~ v22 + v52, data= cs)
+fcs2252<- cs2252[-c(4,5),-c(3,4)]
+dimnames(fcs2252) <- list("v22 Cut Aid"= c("Yes","Qualified","No"), "v52 Do you think reporting neighbors a good idea"= c("Yes","No"))
+cat("v22 and v52 cs\n")
+fcs2252
+chisq.test(fcs2252)
+
+ls2252 <- xtabs(~v22 + v52, data= ls)
+fls2252 <- ls2252[-c(4,5),-c(3,4)]
+dimnames(fls2252) <- list("v22 Cut Aid"= c("Yes","Qualified","No"), "v52 Do you think reporting neighbors a good idea"= c("Yes","No"))
+cat("v22 and v52 ls\n")
+fls2252
+chisq.test(fls2252)
+
+
+#messy again
+
+csv53 <- data.frame(
+  v22 = rep(cs$v22, 3),
+  v53 = c(cs$v53a, cs$v53b, cs$v53c)
+)
+
+cs2253<- xtabs(~ v22 + v53, data= csv53)
+fcs2253<- cs2253[-c(4,5),-c(9,10,11)]
+dimnames(fcs2253) <- list("v22 Cut Aid"= c("Yes","Qualified","No"), "v53 Is v52 dangerous, how?"= c("No Dangers","Fear/Reprisal","Hurt Innocent/Wrongly Accused","Malicious Reporting","Atmosphere Suspicion/Mistrust","Inefficent/Wasteful","Un-American/Undemocratic","Other Danger"))
+cat("v22 and v53 cs\n")
+fcs2253
+chisq.test(fcs2253)
+
+lsv53 <- data.frame(
+  v22 = rep(ls$v22, 3),
+  v53 = c(ls$v53a, ls$v53b, ls$v53c)
+)
+
+ls2253 <- xtabs(~v22 + v53, data= lsv53)
+fls2253 <- ls2253[-c(4,5),-c(9,10,11)]
+dimnames(fls2253) <- list("v22 Cut Aid"= c("Yes","Qualified","No"), "v53 Is v52 dangerous, how?"= c("No Dangers","Fear/Reprisal","Hurt Innocent/Wrongly Accused","Malicious Reporting","Atmosphere Suspicion/Mistrust","Inefficent/Wasteful","Un-American/Undemocratic","Other Danger"))
+cat("v22 and v53 ls\n")
+fls2253
+chisq.test(fls2253)
+
+#messy again
+csv55 <- data.frame(
+  v22 = rep(cs$v22, 3),
+  v55 = c(cs$v55a, cs$v55b, cs$v55c)
+)
+
+cs2255<- xtabs(~ v22 + v55, data= csv55)
+fcs2255<- cs2255[-c(4,5),-c(1,9)]
+dimnames(fcs2255) <- list("v22 Cut Aid"= c("Yes","Qualified","No"), "v55 How is reporting aquaintances dangerous?"= c("Fear/Reprisal","Hurt Innocent/Wrongly Accused","Malicious Reporting","Atmosphere Suspicion/Mistrust","Inefficent/Wasteful","Un-American/Undemocratic","Other Danger"))
+cat("v22 and v55 cs\n")
+fcs2255
+chisq.test(fcs2255)
+
+lsv55 <- data.frame(
+  v22 = rep(ls$v22, 3),
+  v55 = c(ls$v55a, ls$v55b, ls$v55c)
+)
+
+ls2255 <- xtabs(~v22 + v55, data= lsv55)
+fls2255 <- ls2255[-c(4,5),-c(1,9)]
+dimnames(fls2255) <- list("v22 Cut Aid"= c("Yes","Qualified","No"), "v55 How is reporting aquaintances dangerous?"= c("Fear/Reprisal","Hurt Innocent/Wrongly Accused","Malicious Reporting","Atmosphere Suspicion/Mistrust","Inefficent/Wasteful","Un-American/Undemocratic","Other Danger"))
+cat("v22 and v55 ls\n")
+fls2255
+chisq.test(fls2255)
+
+cs2257<- xtabs(~ v22 + v57, data= cs)
+fcs2257<- cs2257[-c(4,5),-c(3,4)]
+dimnames(fcs2257) <- list("v22 Cut Aid"= c("Yes","Qualified","No"), "v57 To catch Comm, Can gov listen to phone calls?"= c("Yes","No"))
+cat("v22 and v57 cs\n")
+fcs2257
+chisq.test(fcs2257)
+
+ls2257 <- xtabs(~v22 + v57, data= ls)
+fls2257 <- ls2257[-c(4,5),-c(3,4)]
+dimnames(fls2257) <- list("v22 Cut Aid"= c("Yes","Qualified","No"), "v57 To catch Comm, Can gov listen to phone calls?"= c("Yes","No"))
+cat("v22 and v57 ls\n")
+fls2257
+chisq.test(fls2257)
 
 sink()

@@ -1,0 +1,590 @@
+v17 and v14 cs
+                                v14 Communists in U.S.
+v17 Comm Stopped in Euro w/o War Most Important Next Most Important Talked About
+               Very Likely                   49                  59          107
+               Rather Likely                137                 157          248
+               Rather Unlikely              147                 185          313
+               Not Likely At All            121                 146          201
+                                v14 Communists in U.S.
+v17 Comm Stopped in Euro w/o War Not Talked About
+               Very Likely                    267
+               Rather Likely                  519
+               Rather Unlikely                591
+               Not Likely At All              457
+
+	Pearson's Chi-squared test
+
+data:  fcs1714
+X-squared = 13.007, df = 9, p-value = 0.1623
+
+v17 and v14 ls
+                                v14 Communists in U.S.
+v17 Comm Stopped in Euro w/o War Most Important Next Most Important Talked About
+               Very Likely                   24                  22           90
+               Rather Likely                 55                  68          175
+               Rather Unlikely               82                  75          195
+               Not Likely At All             25                  42           75
+                                v14 Communists in U.S.
+v17 Comm Stopped in Euro w/o War Not Talked About
+               Very Likely                     86
+               Rather Likely                  154
+               Rather Unlikely                137
+               Not Likely At All               57
+
+	Pearson's Chi-squared test
+
+data:  fls1714
+X-squared = 21.562, df = 9, p-value = 0.01037
+
+v17 and v15 cs
+                                v15 Comm Threat Freedom U.S.
+v17 Comm Stopped in Euro w/o War Most Important Next Most Important Talked About
+               Very Likely                   60                  60           55
+               Rather Likely                177                 102          102
+               Rather Unlikely              187                 135          121
+               Not Likely At All            109                  92           94
+                                v15 Comm Threat Freedom U.S.
+v17 Comm Stopped in Euro w/o War Not Talked About
+               Very Likely                    307
+               Rather Likely                  679
+               Rather Unlikely                791
+               Not Likely At All              630
+
+	Pearson's Chi-squared test
+
+data:  fcs1714
+X-squared = 13.007, df = 9, p-value = 0.1623
+
+v17 and v15 ls
+                                v15 Comm Threat Freedom U.S
+v17 Comm Stopped in Euro w/o War Most Important Next Most Important Talked About
+               Very Likely                   55                  42           34
+               Rather Likely                122                  61           72
+               Rather Unlikely              115                  87           76
+               Not Likely At All             43                  19           39
+                                v15 Comm Threat Freedom U.S
+v17 Comm Stopped in Euro w/o War Not Talked About
+               Very Likely                     92
+               Rather Likely                  196
+               Rather Unlikely                212
+               Not Likely At All               96
+
+	Pearson's Chi-squared test
+
+data:  fls1715
+X-squared = 14.052, df = 9, p-value = 0.1205
+
+v17 and v35 cs
+                                v35 Don't Censor Socialist Speaker
+v17 Comm Stopped in Euro w/o War Yes  No
+               Very Likely       335 122
+               Rather Likely     694 320
+               Rather Unlikely   771 393
+               Not Likely At All 552 320
+
+	Pearson's Chi-squared test
+
+data:  fcs1735
+X-squared = 14.874, df = 3, p-value = 0.001928
+
+v17 and v35 ls
+                                v35 Don't Censor Socialist Speaker
+v17 Comm Stopped in Euro w/o War Yes  No
+               Very Likely       199  24
+               Rather Likely     394  49
+               Rather Unlikely   414  74
+               Not Likely At All 162  36
+
+	Pearson's Chi-squared test
+
+data:  fls1735
+X-squared = 8.5413, df = 3, p-value = 0.03605
+
+v17 and v36 cs
+                                v36 Don't Censor Socialist Teacher
+v17 Comm Stopped in Euro w/o War Yes  No
+               Very Likely       205 241
+               Rather Likely     407 566
+               Rather Unlikely   413 719
+               Not Likely At All 297 559
+
+	Pearson's Chi-squared test
+
+data:  fcs1736
+X-squared = 22.028, df = 3, p-value = 6.437e-05
+
+v17 and v36 ls
+                                v36 Don't Censor Socialist Teacher
+v17 Comm Stopped in Euro w/o War Yes  No
+               Very Likely       114 105
+               Rather Likely     219 204
+               Rather Unlikely   236 233
+               Not Likely At All  93  99
+
+	Pearson's Chi-squared test
+
+data:  fls1736
+X-squared = 0.77022, df = 3, p-value = 0.8566
+
+v17 and v37 cs
+                                v37 Censor Socialist Book
+v17 Comm Stopped in Euro w/o War Yes  No
+               Very Likely       158 296
+               Rather Likely     357 636
+               Rather Unlikely   414 719
+               Not Likely At All 379 482
+
+	Pearson's Chi-squared test
+
+data:  fcs1737
+X-squared = 18, df = 3, p-value = 0.0004399
+
+v17 and v37 ls
+                                v37 Censor Socialist Book
+v17 Comm Stopped in Euro w/o War Yes  No
+               Very Likely        31 189
+               Rather Likely      67 370
+               Rather Unlikely    98 388
+               Not Likely At All  42 152
+
+	Pearson's Chi-squared test
+
+data:  fls1737
+X-squared = 7.7097, df = 3, p-value = 0.05241
+
+v17 and v42 cs
+                                v42 American Comm Danger U.S. Rn
+v17 Comm Stopped in Euro w/o War Very Great Great Some Hardly Any  No
+               Very Likely              101    88  192         62  21
+               Rather Likely            178   250  443        120  32
+               Rather Unlikely          277   339  464         97  19
+               Not Likely At All        240   225  321         90  25
+
+	Pearson's Chi-squared test
+
+data:  fcs1742
+X-squared = 62.748, df = 12, p-value = 7.091e-09
+
+v17 and v42 ls
+                                v42 American Comm Danger U.S. Rn
+v17 Comm Stopped in Euro w/o War Very Great Great Some Hardly Any  No
+               Very Likely               31    41   99         40  12
+               Rather Likely             56   106  209         70   8
+               Rather Unlikely           81   109  232         62   8
+               Not Likely At All         40    48   77         31   3
+
+	Pearson's Chi-squared test
+
+data:  fls1742
+X-squared = 25.441, df = 12, p-value = 0.01287
+
+v17 and v43 cs
+                                v43 Why Comm Dangerous?
+v17 Comm Stopped in Euro w/o War Espionage Sabotage Subversion and Conversion Dangerous, Other
+               Very Likely              46       34                       132              109
+               Rather Likely            92       75                       335              267
+               Rather Unlikely         107      112                       392              320
+               Not Likely At All        95       74                       292              237
+                                v43 Why Comm Dangerous?
+v17 Comm Stopped in Euro w/o War Not bc FBI Not bc McCathy Not, Other
+               Very Likely               14              1         55
+               Rather Likely             34              6         99
+               Rather Unlikely           23              4         82
+               Not Likely At All         22              6         79
+
+	Pearson's Chi-squared test
+
+data:  fcs1743
+X-squared = 25.709, df = 18, p-value = 0.1066
+
+v17 and v43 ls
+                                v43 Why Comm Dangerous?
+v17 Comm Stopped in Euro w/o War Espionage Sabotage Subversion and Conversion Dangerous, Other
+               Very Likely              15       15                        77               53
+               Rather Likely            25       20                       172              133
+               Rather Unlikely          38       29                       188              142
+               Not Likely At All        15       14                        76               55
+                                v43 Why Comm Dangerous?
+v17 Comm Stopped in Euro w/o War Not bc FBI Not bc McCathy Not, Other
+               Very Likely               14              0         37
+               Rather Likely             23              2         46
+               Rather Unlikely           23              4         41
+               Not Likely At All          9              0         22
+
+	Pearson's Chi-squared test
+
+data:  fls1743
+X-squared = 20.858, df = 18, p-value = 0.2867
+
+v17 and v44 cs
+                                v44 Can Cmnst be loyal Amrcn
+v17 Comm Stopped in Euro w/o War  Yes Qualified   No
+               Very Likely         36        20  412
+               Rather Likely       62        24  939
+               Rather Unlikely     62        11 1130
+               Not Likely At All   36        16  841
+
+	Pearson's Chi-squared test
+
+data:  fcs1744
+X-squared = 30.284, df = 6, p-value = 3.471e-05
+
+v17 and v44 ls
+                                v44 Can Cmnst be loyal Amrcn
+v17 Comm Stopped in Euro w/o War Yes Qualified  No
+               Very Likely        14        14 188
+               Rather Likely      20        19 408
+               Rather Unlikely    20        16 451
+               Not Likely At All   9         1 188
+
+	Pearson's Chi-squared test
+
+data:  fls1744
+X-squared = 13.228, df = 6, p-value = 0.03956
+
+skipping v45 out of confusion with the table, multiple rounds of questions, etc
+
+v17 and v46 cs
+                                v46 What do Comm Believe
+v17 Comm Stopped in Euro w/o War Russia/World Dom Loss Individual Rights
+               Very Likely                     57                     49
+               Rather Likely                  153                     94
+               Rather Unlikely                166                    118
+               Not Likely At All              135                     96
+                                v46 What do Comm Believe
+v17 Comm Stopped in Euro w/o War Gov Ownership Property Dictatorship Egalitarian Anti-Religon
+               Very Likely                          101           98          81          118
+               Rather Likely                        207          187         188          276
+               Rather Unlikely                      260          262         220          320
+               Not Likely At All                    196          190         154          249
+                                v46 What do Comm Believe
+v17 Comm Stopped in Euro w/o War Immoral/Amoral Slogan
+               Very Likely                   24     30
+               Rather Likely                 49     69
+               Rather Unlikely               59     91
+               Not Likely At All             52     67
+
+	Pearson's Chi-squared test
+
+data:  fcs1746
+X-squared = 8.7479, df = 21, p-value = 0.9911
+
+v17 and v46 ls
+                                v46 What do Comm Believe
+v17 Comm Stopped in Euro w/o War Russia/World Dom Loss Individual Rights
+               Very Likely                     24                     29
+               Rather Likely                   56                     55
+               Rather Unlikely                 75                     62
+               Not Likely At All               25                     21
+                                v46 What do Comm Believe
+v17 Comm Stopped in Euro w/o War Gov Ownership Property Dictatorship Egalitarian Anti-Religon
+               Very Likely                           54           69          49           43
+               Rather Likely                        129          179          93          117
+               Rather Unlikely                      114          173         106          136
+               Not Likely At All                     51           71          36           58
+                                v46 What do Comm Believe
+v17 Comm Stopped in Euro w/o War Immoral/Amoral Slogan
+               Very Likely                   15     42
+               Rather Likely                 32     67
+               Rather Unlikely               27     87
+               Not Likely At All             11     23
+
+	Pearson's Chi-squared test
+
+data:  fls1746
+X-squared = 19.124, df = 21, p-value = 0.5772
+
+v17 and v47 cs
+                                v47 Have you known a Comm
+v17 Comm Stopped in Euro w/o War  Yes   No
+               Very Likely         99  383
+               Rather Likely      179  890
+               Rather Unlikely    227 1014
+               Not Likely At All  184  745
+
+	Pearson's Chi-squared test
+
+data:  fcs1747
+X-squared = 4.5975, df = 3, p-value = 0.2038
+
+v17 and v47 ls
+                                v47 Have you known a Comm
+v17 Comm Stopped in Euro w/o War Yes  No
+               Very Likely        95 130
+               Rather Likely     204 248
+               Rather Unlikely   216 278
+               Not Likely At All 100  96
+
+	Pearson's Chi-squared test
+
+data:  fls1747
+X-squared = 3.8997, df = 3, p-value = 0.2725
+
+v17 and v48 cs
+                                v48 How could you tell/know?
+v17 Comm Stopped in Euro w/o War It was admitted What was Said/Read Groups/Organizations
+               Very Likely                    27                 58                    8
+               Rather Likely                  28                116                   12
+               Rather Unlikely                34                151                   21
+               Not Likely At All              40                120                    9
+                                v48 How could you tell/know?
+v17 Comm Stopped in Euro w/o War Deviant/Strange Behavior
+               Very Likely                              9
+               Rather Likely                           29
+               Rather Unlikely                         33
+               Not Likely At All                       26
+
+	Pearson's Chi-squared test
+
+data:  fcs1748
+X-squared = 13.226, df = 9, p-value = 0.1527
+
+v17 and v48 ls
+                                v48 How could you tell/know?
+v17 Comm Stopped in Euro w/o War It was admitted What was Said/Read Groups/Organizations
+               Very Likely                    29                 48                   14
+               Rather Likely                  53                129                   13
+               Rather Unlikely                49                138                   17
+               Not Likely At All              27                 58                   12
+                                v48 How could you tell/know?
+v17 Comm Stopped in Euro w/o War Deviant/Strange Behavior
+               Very Likely                             11
+               Rather Likely                           26
+               Rather Unlikely                         27
+               Not Likely At All                       12
+
+	Pearson's Chi-squared test
+
+data:  fls1748
+X-squared = 10.345, df = 9, p-value = 0.3233
+
+v17 and v49 cs
+                                v49 Your city asked you to report Comm to FBI
+v17 Comm Stopped in Euro w/o War  Yes   No
+               Very Likely         50  397
+               Rather Likely       87  905
+               Rather Unlikely    130 1026
+               Not Likely At All   91  774
+
+	Pearson's Chi-squared test
+
+data:  fcs1749
+X-squared = 4.0323, df = 3, p-value = 0.258
+
+v17 and v49 ls
+                                v49 Your city asked you to report Comm to FBI
+v17 Comm Stopped in Euro w/o War Yes  No
+               Very Likely        95 130
+               Rather Likely     204 248
+               Rather Unlikely   216 278
+               Not Likely At All 100  96
+
+	Pearson's Chi-squared test
+
+data:  fls1749
+X-squared = 3.8997, df = 3, p-value = 0.2725
+
+v17 and v50 cs
+                                v50 Heard of other cities citizens asked to report Comm to FBI
+v17 Comm Stopped in Euro w/o War Yes  No
+               Very Likely        50 164
+               Rather Likely      87 349
+               Rather Unlikely   130 393
+               Not Likely At All  91 331
+
+	Pearson's Chi-squared test
+
+data:  fcs1750
+X-squared = 3.5935, df = 3, p-value = 0.3088
+
+v17 and v50 ls
+                                v50 Heard of other cities citizens asked to report Comm to FBI
+v17 Comm Stopped in Euro w/o War Yes  No
+               Very Likely        54 109
+               Rather Likely     111 200
+               Rather Unlikely   127 224
+               Not Likely At All  57  84
+
+	Pearson's Chi-squared test
+
+data:  fls1750
+X-squared = 1.79, df = 3, p-value = 0.6171
+
+v17 and v51 cs
+                                v51 Discussed v50 idea with anyone
+v17 Comm Stopped in Euro w/o War  Yes   No
+               Very Likely        432   18
+               Rather Likely      982   33
+               Rather Unlikely   1113   51
+               Not Likely At All  839   39
+
+	Pearson's Chi-squared test
+
+data:  fcs1751
+X-squared = 2.3541, df = 3, p-value = 0.5022
+
+v17 and v51 ls
+                                v51 Discussed v50 idea with anyone
+v17 Comm Stopped in Euro w/o War Yes  No
+               Very Likely       171  37
+               Rather Likely     341  74
+               Rather Unlikely   368  71
+               Not Likely At All 142  36
+
+	Pearson's Chi-squared test
+
+data:  fls1751
+X-squared = 1.4832, df = 3, p-value = 0.6861
+
+v17 and v52 cs
+                                v52 Do you think reporting neighbors a good idea
+v17 Comm Stopped in Euro w/o War Yes  No
+               Very Likely       351 107
+               Rather Likely     773 245
+               Rather Unlikely   921 257
+               Not Likely At All 692 179
+
+	Pearson's Chi-squared test
+
+data:  fcs1752
+X-squared = 3.816, df = 3, p-value = 0.282
+
+v17 and v52 ls
+                                v52 Do you think reporting neighbors a good idea
+v17 Comm Stopped in Euro w/o War Yes  No
+               Very Likely       122  96
+               Rather Likely     277 160
+               Rather Unlikely   341 135
+               Not Likely At All 129  64
+
+	Pearson's Chi-squared test
+
+data:  fls1752
+X-squared = 17.751, df = 3, p-value = 0.0004951
+
+v17 and v53 cs
+                                v53 Is v52 dangerous, how?
+v17 Comm Stopped in Euro w/o War No Dangers Fear/Reprisal Hurt Innocent/Wrongly Accused
+               Very Likely              166            79                            52
+               Rather Likely            338           197                           115
+               Rather Unlikely          416           236                           145
+               Not Likely At All        344           182                            75
+                                v53 Is v52 dangerous, how?
+v17 Comm Stopped in Euro w/o War Malicious Reporting Atmosphere Suspicion/Mistrust
+               Very Likely                        14                            21
+               Rather Likely                      32                            31
+               Rather Unlikely                    32                            37
+               Not Likely At All                  24                            23
+                                v53 Is v52 dangerous, how?
+v17 Comm Stopped in Euro w/o War Inefficent/Wasteful Un-American/Undemocratic Other Danger
+               Very Likely                         0                        6           22
+               Rather Likely                       7                        3           47
+               Rather Unlikely                     9                        5           49
+               Not Likely At All                   7                        4           30
+
+	Pearson's Chi-squared test
+
+data:  fcs1753
+X-squared = 29.373, df = 21, p-value = 0.1053
+
+v17 and v53 ls
+                                v53 Is v52 dangerous, how?
+v17 Comm Stopped in Euro w/o War No Dangers Fear/Reprisal Hurt Innocent/Wrongly Accused
+               Very Likely               57             8                            34
+               Rather Likely            112            15                            73
+               Rather Unlikely          145            26                            94
+               Not Likely At All         64            12                            31
+                                v53 Is v52 dangerous, how?
+v17 Comm Stopped in Euro w/o War Malicious Reporting Atmosphere Suspicion/Mistrust
+               Very Likely                        19                            10
+               Rather Likely                      47                            12
+               Rather Unlikely                    38                            16
+               Not Likely At All                  22                             6
+                                v53 Is v52 dangerous, how?
+v17 Comm Stopped in Euro w/o War Inefficent/Wasteful Un-American/Undemocratic Other Danger
+               Very Likely                         2                        4            6
+               Rather Likely                       8                       15           20
+               Rather Unlikely                     6                       20           20
+               Not Likely At All                   1                        3            9
+
+	Pearson's Chi-squared test
+
+data:  fls1753
+X-squared = 17.453, df = 21, p-value = 0.6833
+
+v17 and v55 cs
+                                v55 How is reporting aquaintances dangerous?
+v17 Comm Stopped in Euro w/o War Fear/Reprisal Hurt Innocent/Wrongly Accused
+               Very Likely                   3                            44
+               Rather Likely                12                            88
+               Rather Unlikely               9                           101
+               Not Likely At All             9                            66
+                                v55 How is reporting aquaintances dangerous?
+v17 Comm Stopped in Euro w/o War Malicious Reporting Atmosphere Suspicion/Mistrust
+               Very Likely                        27                            27
+               Rather Likely                      46                            63
+               Rather Unlikely                    64                            62
+               Not Likely At All                  24                            56
+                                v55 How is reporting aquaintances dangerous?
+v17 Comm Stopped in Euro w/o War Inefficent/Wasteful Un-American/Undemocratic Other Danger
+               Very Likely                        15                       24            9
+               Rather Likely                      23                       45           27
+               Rather Unlikely                    26                       36           28
+               Not Likely At All                  11                       30           23
+
+	Pearson's Chi-squared test
+
+data:  fcs1755
+X-squared = 19.971, df = 18, p-value = 0.3345
+
+v17 and v55 ls
+                                v55 How is reporting aquaintances dangerous?
+v17 Comm Stopped in Euro w/o War Fear/Reprisal Hurt Innocent/Wrongly Accused
+               Very Likely                   2                            32
+               Rather Likely                 1                            54
+               Rather Unlikely               3                            35
+               Not Likely At All             1                            26
+                                v55 How is reporting aquaintances dangerous?
+v17 Comm Stopped in Euro w/o War Malicious Reporting Atmosphere Suspicion/Mistrust
+               Very Likely                        24                            26
+               Rather Likely                      65                            50
+               Rather Unlikely                    41                            36
+               Not Likely At All                  25                            13
+                                v55 How is reporting aquaintances dangerous?
+v17 Comm Stopped in Euro w/o War Inefficent/Wasteful Un-American/Undemocratic Other Danger
+               Very Likely                        15                       28            5
+               Rather Likely                      17                       49            6
+               Rather Unlikely                    23                       36           10
+               Not Likely At All                  10                       17            2
+
+	Pearson's Chi-squared test
+
+data:  fls1755
+X-squared = 16.017, df = 18, p-value = 0.5914
+
+v17 and v57 cs
+                                v57 To catch Comm, Can gov listen to phone calls?
+v17 Comm Stopped in Euro w/o War Yes  No
+               Very Likely       311 149
+               Rather Likely     709 306
+               Rather Unlikely   846 317
+               Not Likely At All 627 255
+
+	Pearson's Chi-squared test
+
+data:  fcs1757
+X-squared = 4.8676, df = 3, p-value = 0.1818
+
+v17 and v57 ls
+                                v57 To catch Comm, Can gov listen to phone calls?
+v17 Comm Stopped in Euro w/o War Yes  No
+               Very Likely       134  76
+               Rather Likely     269 153
+               Rather Unlikely   320 153
+               Not Likely At All 114  73
+
+	Pearson's Chi-squared test
+
+data:  fls1757
+X-squared = 3.1913, df = 3, p-value = 0.3631
+

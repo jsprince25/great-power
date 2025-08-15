@@ -1,0 +1,506 @@
+v20 and v14 cs
+                                                  v14 Communists in U.S.
+v20 To Save Asia from Comm take over, Fight Russia Most Important Next Most Important Talked About Not Talked About
+                    Let Comm Take Over                         80                  78          155              387
+                    Fight Russia                              376                 439          657             1447
+                    Fight Russia i.f.f Allies help             12                  12           24               45
+                    Other                                      10                  18           32               74
+
+	Pearson's Chi-squared test
+
+data:  fcs2014
+X-squared = 14.789, df = 9, p-value = 0.0969
+
+v20 and v14 ls
+                                                  v14 Communists in U.S.
+v20 To Save Asia from Comm take over, Fight Russia Most Important Next Most Important Talked About Not Talked About
+                    Let Comm Take Over                         26                  45          102              118
+                    Fight Russia                              135                 134          327              254
+                    Fight Russia i.f.f Allies help              6                  13           41               21
+                    Other                                      13                   9           41               33
+
+	Pearson's Chi-squared test
+
+data:  fls2014
+X-squared = 25.699, df = 9, p-value = 0.002288
+
+v20 and v15 cs
+                                                  v15 Comm Threat Freedom U.S.
+v20 To Save Asia from Comm take over, Fight Russia Most Important Next Most Important Talked About Not Talked About
+                    Let Comm Take Over                        102                  61           56              480
+                    Fight Russia                              401                 294          293             1926
+                    Fight Russia i.f.f Allies help             14                  14           10               55
+                    Other                                      22                  22           12               78
+
+	Pearson's Chi-squared test
+
+data:  fcs2014
+X-squared = 14.789, df = 9, p-value = 0.0969
+
+v20 and v15 ls
+                                                  v15 Comm Threat Freedom U.S
+v20 To Save Asia from Comm take over, Fight Russia Most Important Next Most Important Talked About Not Talked About
+                    Let Comm Take Over                         70                  43           39              140
+                    Fight Russia                              203                 136          137              373
+                    Fight Russia i.f.f Allies help             26                  11           18               26
+                    Other                                      30                  16           19               31
+
+	Pearson's Chi-squared test
+
+data:  fls2015
+X-squared = 14.804, df = 9, p-value = 0.09647
+
+v20 and v35 cs
+                                                  v35 Don't Censor Socialist Speaker
+v20 To Save Asia from Comm take over, Fight Russia  Yes   No
+                    Let Comm Take Over              485  178
+                    Fight Russia                   1776  952
+                    Fight Russia i.f.f Allies help   67   24
+                    Other                            85   42
+
+	Pearson's Chi-squared test
+
+data:  fcs2035
+X-squared = 17.53, df = 3, p-value = 0.0005497
+
+v20 and v35 ls
+                                                  v35 Don't Censor Socialist Speaker
+v20 To Save Asia from Comm take over, Fight Russia Yes  No
+                    Let Comm Take Over             263  27
+                    Fight Russia                   693 148
+                    Fight Russia i.f.f Allies help  74   5
+                    Other                           94   4
+
+	Pearson's Chi-squared test
+
+data:  fls2035
+X-squared = 26.099, df = 3, p-value = 9.094e-06
+
+v20 and v36 cs
+                                                  v36 Don't Censor Socialist Teacher
+v20 To Save Asia from Comm take over, Fight Russia  Yes   No
+                    Let Comm Take Over              281  362
+                    Fight Russia                    985 1655
+                    Fight Russia i.f.f Allies help   30   53
+                    Other                            44   78
+
+	Pearson's Chi-squared test
+
+data:  fcs2036
+X-squared = 9.4218, df = 3, p-value = 0.02418
+
+v20 and v36 ls
+                                                  v36 Don't Censor Socialist Teacher
+v20 To Save Asia from Comm take over, Fight Russia Yes  No
+                    Let Comm Take Over             149 137
+                    Fight Russia                   394 417
+                    Fight Russia i.f.f Allies help  49  26
+                    Other                           53  40
+
+	Pearson's Chi-squared test
+
+data:  fls2036
+X-squared = 9.536, df = 3, p-value = 0.02295
+
+v20 and v37 cs
+                                                  v37 Censor Socialist Book
+v20 To Save Asia from Comm take over, Fight Russia  Yes   No
+                    Let Comm Take Over              193  460
+                    Fight Russia                   1107 1573
+                    Fight Russia i.f.f Allies help   27   63
+                    Other                            38   83
+
+	Pearson's Chi-squared test
+
+data:  fcs2037
+X-squared = 36.287, df = 3, p-value = 6.512e-08
+
+v20 and v37 ls
+                                                  v37 Censor Socialist Book
+v20 To Save Asia from Comm take over, Fight Russia Yes  No
+                    Let Comm Take Over              51 239
+                    Fight Russia                   171 660
+                    Fight Russia i.f.f Allies help   5  73
+                    Other                           10  85
+
+	Pearson's Chi-squared test
+
+data:  fls2037
+X-squared = 14.188, df = 3, p-value = 0.002661
+
+v20 and v42 cs
+                                                  v42 American Comm Danger U.S. Rn
+v20 To Save Asia from Comm take over, Fight Russia Very Great Great Some Hardly Any   No
+                    Let Comm Take Over                    109   150  278        105   23
+                    Fight Russia                          666   738 1102        249   63
+                    Fight Russia i.f.f Allies help         20    17   42          3    8
+                    Other                                  22    36   46         16    5
+
+	Pearson's Chi-squared test
+
+data:  fcs2042
+X-squared = 69.333, df = 12, p-value = 4.269e-10
+
+v20 and v42 ls
+                                                  v42 American Comm Danger U.S. Rn
+v20 To Save Asia from Comm take over, Fight Russia Very Great Great Some Hardly Any  No
+                    Let Comm Take Over                     29    69  127         59   8
+                    Fight Russia                          161   197  375         99  16
+                    Fight Russia i.f.f Allies help          8    15   41         14   2
+                    Other                                  11    15   51         17   4
+
+	Pearson's Chi-squared test
+
+data:  fls2042
+X-squared = 34.558, df = 12, p-value = 0.0005505
+
+v20 and v43 cs
+                                                  v43 Why Comm Dangerous?
+v20 To Save Asia from Comm take over, Fight Russia Espionage Sabotage Subversion and Conversion Dangerous, Other Not bc FBI Not bc McCathy Not, Other
+                    Let Comm Take Over                    66       38                       212              148         16              3         94
+                    Fight Russia                         255      244                       914              748         65             11        202
+                    Fight Russia i.f.f Allies help         7        5                        31               26          1              0          8
+                    Other                                 10        9                        38               33          7              1         14
+
+	Pearson's Chi-squared test
+
+data:  fcs2043
+X-squared = 49.952, df = 18, p-value = 7.676e-05
+
+v20 and v43 ls
+                                                  v43 Why Comm Dangerous?
+v20 To Save Asia from Comm take over, Fight Russia Espionage Sabotage Subversion and Conversion Dangerous, Other Not bc FBI Not bc McCathy Not, Other
+                    Let Comm Take Over                    13       14                       104               74         15              2         45
+                    Fight Russia                          63       45                       339              244         34              2         69
+                    Fight Russia i.f.f Allies help         8        6                        27               23          9              1          5
+                    Other                                  8        5                        31               31          5              0         14
+
+	Pearson's Chi-squared test
+
+data:  fls2043
+X-squared = 33.939, df = 18, p-value = 0.01282
+
+v20 and v44 cs
+                                                  v44 Can Cmnst be loyal Amrcn
+v20 To Save Asia from Comm take over, Fight Russia  Yes Qualified   No
+                    Let Comm Take Over               49        21  603
+                    Fight Russia                    137        49 2651
+                    Fight Russia i.f.f Allies help    9         1   81
+                    Other                            11         3  113
+
+	Pearson's Chi-squared test
+
+data:  fcs2044
+X-squared = 18.588, df = 6, p-value = 0.00492
+
+v20 and v44 ls
+                                                  v44 Can Cmnst be loyal Amrcn
+v20 To Save Asia from Comm take over, Fight Russia Yes Qualified  No
+                    Let Comm Take Over              18        13 256
+                    Fight Russia                    38        20 790
+                    Fight Russia i.f.f Allies help   3         4  72
+                    Other                            7        12  73
+
+	Pearson's Chi-squared test
+
+data:  fls2044
+X-squared = 31.111, df = 6, p-value = 2.414e-05
+
+skipping v45 out of confusion with the table, multiple rounds of questions, etc
+
+v20 and v46 cs
+                                                  v46 What do Comm Believe
+v20 To Save Asia from Comm take over, Fight Russia Russia/World Dom Loss Individual Rights Gov Ownership Property Dictatorship Egalitarian Anti-Religon
+                    Let Comm Take Over                          101                     60                    156          127         141          153
+                    Fight Russia                                395                    280                    538          550         439          763
+                    Fight Russia i.f.f Allies help               11                      5                     28           23          20           26
+                    Other                                        20                     13                     35           35          22           35
+                                                  v46 What do Comm Believe
+v20 To Save Asia from Comm take over, Fight Russia Immoral/Amoral Slogan
+                    Let Comm Take Over                         36     54
+                    Fight Russia                              155    197
+                    Fight Russia i.f.f Allies help              3     11
+                    Other                                       8      7
+
+	Pearson's Chi-squared test
+
+data:  fcs2046
+X-squared = 31.639, df = 21, p-value = 0.06366
+
+v20 and v46 ls
+                                                  v46 What do Comm Believe
+v20 To Save Asia from Comm take over, Fight Russia Russia/World Dom Loss Individual Rights Gov Ownership Property Dictatorship Egalitarian Anti-Religon
+                    Let Comm Take Over                           33                     38                     76          124          60           58
+                    Fight Russia                                122                    106                    219          285         181          237
+                    Fight Russia i.f.f Allies help               12                      8                     24           23          12           22
+                    Other                                        11                     10                     21           34          21           23
+                                                  v46 What do Comm Believe
+v20 To Save Asia from Comm take over, Fight Russia Immoral/Amoral Slogan
+                    Let Comm Take Over                         28     46
+                    Fight Russia                               46    140
+                    Fight Russia i.f.f Allies help              5     11
+                    Other                                       4     12
+
+	Pearson's Chi-squared test
+
+data:  fls2046
+X-squared = 22.872, df = 21, p-value = 0.3508
+
+v20 and v47 cs
+                                                  v47 Have you known a Comm
+v20 To Save Asia from Comm take over, Fight Russia  Yes   No
+                    Let Comm Take Over              150  553
+                    Fight Russia                    505 2430
+                    Fight Russia i.f.f Allies help   32   61
+                    Other                            17  117
+
+	Pearson's Chi-squared test
+
+data:  fcs2047
+X-squared = 25.725, df = 3, p-value = 1.089e-05
+
+v20 and v47 ls
+                                                  v47 Have you known a Comm
+v20 To Save Asia from Comm take over, Fight Russia Yes  No
+                    Let Comm Take Over             120 171
+                    Fight Russia                   385 466
+                    Fight Russia i.f.f Allies help  34  47
+                    Other                           48  50
+
+	Pearson's Chi-squared test
+
+data:  fls2047
+X-squared = 2.4474, df = 3, p-value = 0.4849
+
+v20 and v48 cs
+                                                  v48 How could you tell/know?
+v20 To Save Asia from Comm take over, Fight Russia It was admitted What was Said/Read Groups/Organizations Deviant/Strange Behavior
+                    Let Comm Take Over                          37                 97                    7                       14
+                    Fight Russia                                87                314                   40                       87
+                    Fight Russia i.f.f Allies help               5                 25                    1                        2
+                    Other                                        2                 13                    0                        2
+
+	Pearson's Chi-squared test
+
+data:  fcs2048
+X-squared = 16.238, df = 9, p-value = 0.06208
+
+v20 and v48 ls
+                                                  v48 How could you tell/know?
+v20 To Save Asia from Comm take over, Fight Russia It was admitted What was Said/Read Groups/Organizations Deviant/Strange Behavior
+                    Let Comm Take Over                          31                 79                   14                        9
+                    Fight Russia                                89                243                   30                       52
+                    Fight Russia i.f.f Allies help               8                 21                    6                        3
+                    Other                                       17                 25                    4                        6
+
+	Pearson's Chi-squared test
+
+data:  fls2048
+X-squared = 10.885, df = 9, p-value = 0.2836
+
+v20 and v49 cs
+                                                  v49 Your city asked you to report Comm to FBI
+v20 To Save Asia from Comm take over, Fight Russia  Yes   No
+                    Let Comm Take Over               59  593
+                    Fight Russia                    277 2446
+                    Fight Russia i.f.f Allies help    7   80
+                    Other                             5  116
+
+	Pearson's Chi-squared test
+
+data:  fcs2049
+X-squared = 5.5568, df = 3, p-value = 0.1353
+
+v20 and v49 ls
+                                                  v49 Your city asked you to report Comm to FBI
+v20 To Save Asia from Comm take over, Fight Russia Yes  No
+                    Let Comm Take Over             120 171
+                    Fight Russia                   385 466
+                    Fight Russia i.f.f Allies help  34  47
+                    Other                           48  50
+
+	Pearson's Chi-squared test
+
+data:  fls2049
+X-squared = 2.4474, df = 3, p-value = 0.4849
+
+v20 and v50 cs
+                                                  v50 Heard of other cities citizens asked to report Comm to FBI
+v20 To Save Asia from Comm take over, Fight Russia Yes  No
+                    Let Comm Take Over              59 245
+                    Fight Russia                   277 939
+                    Fight Russia i.f.f Allies help   7  32
+                    Other                            5  51
+
+	Pearson's Chi-squared test
+
+data:  fcs2050
+X-squared = 7.489, df = 3, p-value = 0.05784
+
+v20 and v50 ls
+                                                  v50 Heard of other cities citizens asked to report Comm to FBI
+v20 To Save Asia from Comm take over, Fight Russia Yes  No
+                    Let Comm Take Over              75 124
+                    Fight Russia                   234 387
+                    Fight Russia i.f.f Allies help  18  34
+                    Other                           21  52
+
+	Pearson's Chi-squared test
+
+data:  fls2050
+X-squared = 2.406, df = 3, p-value = 0.4925
+
+v20 and v51 cs
+                                                  v51 Discussed v50 idea with anyone
+v20 To Save Asia from Comm take over, Fight Russia  Yes   No
+                    Let Comm Take Over              644   22
+                    Fight Russia                   2662  116
+                    Fight Russia i.f.f Allies help   87    2
+                    Other                           129    3
+
+	Pearson's Chi-squared test
+
+data:  fcs2051
+X-squared = 2.776, df = 3, p-value = 0.4275
+
+v20 and v51 ls
+                                                  v51 Discussed v50 idea with anyone
+v20 To Save Asia from Comm take over, Fight Russia Yes  No
+                    Let Comm Take Over             218  45
+                    Fight Russia                   619 147
+                    Fight Russia i.f.f Allies help  63  10
+                    Other                           78  14
+
+	Pearson's Chi-squared test
+
+data:  fls2051
+X-squared = 2.2589, df = 3, p-value = 0.5204
+
+v20 and v52 cs
+                                                  v52 Do you think reporting neighbors a good idea
+v20 To Save Asia from Comm take over, Fight Russia  Yes   No
+                    Let Comm Take Over              452  205
+                    Fight Russia                   2279  499
+                    Fight Russia i.f.f Allies help   54   33
+                    Other                            85   42
+
+	Pearson's Chi-squared test
+
+data:  fcs2052
+X-squared = 81.603, df = 3, p-value < 2.2e-16
+
+v20 and v52 ls
+                                                  v52 Do you think reporting neighbors a good idea
+v20 To Save Asia from Comm take over, Fight Russia Yes  No
+                    Let Comm Take Over             177 107
+                    Fight Russia                   582 249
+                    Fight Russia i.f.f Allies help  46  30
+                    Other                           54  41
+
+	Pearson's Chi-squared test
+
+data:  fls2052
+X-squared = 12.085, df = 3, p-value = 0.007096
+
+v20 and v53 cs
+                                                  v53 Is v52 dangerous, how?
+v20 To Save Asia from Comm take over, Fight Russia No Dangers Fear/Reprisal Hurt Innocent/Wrongly Accused Malicious Reporting Atmosphere Suspicion/Mistrust
+                    Let Comm Take Over                    199            91                            68                  27                            21
+                    Fight Russia                         1071           582                           306                  65                            94
+                    Fight Russia i.f.f Allies help         24            13                            13                   5                             1
+                    Other                                  39            20                             9                   3                             2
+                                                  v53 Is v52 dangerous, how?
+v20 To Save Asia from Comm take over, Fight Russia Inefficent/Wasteful Un-American/Undemocratic Other Danger
+                    Let Comm Take Over                               6                        0           34
+                    Fight Russia                                    13                       16          114
+                    Fight Russia i.f.f Allies help                   2                        0            2
+                    Other                                            1                        2            5
+
+	Pearson's Chi-squared test
+
+data:  fcs2053
+X-squared = 47.41, df = 21, p-value = 0.0008268
+
+v20 and v53 ls
+                                                  v53 Is v52 dangerous, how?
+v20 To Save Asia from Comm take over, Fight Russia No Dangers Fear/Reprisal Hurt Innocent/Wrongly Accused Malicious Reporting Atmosphere Suspicion/Mistrust
+                    Let Comm Take Over                     71            11                            49                  28                             9
+                    Fight Russia                          274            49                           144                  78                            25
+                    Fight Russia i.f.f Allies help         15             1                            20                   2                             7
+                    Other                                  20             2                            15                   8                             4
+                                                  v53 Is v52 dangerous, how?
+v20 To Save Asia from Comm take over, Fight Russia Inefficent/Wasteful Un-American/Undemocratic Other Danger
+                    Let Comm Take Over                               6                       12           15
+                    Fight Russia                                     6                       23           32
+                    Fight Russia i.f.f Allies help                   3                        1            2
+                    Other                                            3                        2            5
+
+	Pearson's Chi-squared test
+
+data:  fls2053
+X-squared = 44.607, df = 21, p-value = 0.00195
+
+v20 and v55 cs
+                                                  v55 How is reporting aquaintances dangerous?
+v20 To Save Asia from Comm take over, Fight Russia Fear/Reprisal Hurt Innocent/Wrongly Accused Malicious Reporting Atmosphere Suspicion/Mistrust
+                    Let Comm Take Over                        14                            75                  38                            56
+                    Fight Russia                              24                           184                  93                           131
+                    Fight Russia i.f.f Allies help             1                            15                  10                             6
+                    Other                                      2                            15                  11                            13
+                                                  v55 How is reporting aquaintances dangerous?
+v20 To Save Asia from Comm take over, Fight Russia Inefficent/Wasteful Un-American/Undemocratic Other Danger
+                    Let Comm Take Over                              22                       45           18
+                    Fight Russia                                    50                       67           74
+                    Fight Russia i.f.f Allies help                   0                        7            1
+                    Other                                            3                       10            1
+
+	Pearson's Chi-squared test
+
+data:  fcs2055
+X-squared = 28.771, df = 18, p-value = 0.05125
+
+v20 and v55 ls
+                                                  v55 How is reporting aquaintances dangerous?
+v20 To Save Asia from Comm take over, Fight Russia Fear/Reprisal Hurt Innocent/Wrongly Accused Malicious Reporting Atmosphere Suspicion/Mistrust
+                    Let Comm Take Over                         1                            36                  39                            34
+                    Fight Russia                               6                            74                  86                            61
+                    Fight Russia i.f.f Allies help             0                             7                  11                            12
+                    Other                                      0                            19                   7                            16
+                                                  v55 How is reporting aquaintances dangerous?
+v20 To Save Asia from Comm take over, Fight Russia Inefficent/Wasteful Un-American/Undemocratic Other Danger
+                    Let Comm Take Over                              11                       30            9
+                    Fight Russia                                    36                       78           13
+                    Fight Russia i.f.f Allies help                   0                       10            0
+                    Other                                            7                       11            1
+
+	Pearson's Chi-squared test
+
+data:  fls2055
+X-squared = 24.555, df = 18, p-value = 0.1377
+
+v20 and v57 cs
+                                                  v57 To catch Comm, Can gov listen to phone calls?
+v20 To Save Asia from Comm take over, Fight Russia  Yes   No
+                    Let Comm Take Over              428  239
+                    Fight Russia                   2020  755
+                    Fight Russia i.f.f Allies help   57   28
+                    Other                            94   31
+
+	Pearson's Chi-squared test
+
+data:  fcs2057
+X-squared = 21.188, df = 3, p-value = 9.623e-05
+
+v20 and v57 ls
+                                                  v57 To catch Comm, Can gov listen to phone calls?
+v20 To Save Asia from Comm take over, Fight Russia Yes  No
+                    Let Comm Take Over             173 103
+                    Fight Russia                   532 273
+                    Fight Russia i.f.f Allies help  51  26
+                    Other                           58  36
+
+	Pearson's Chi-squared test
+
+data:  fls2057
+X-squared = 1.5715, df = 3, p-value = 0.6659
+

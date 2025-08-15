@@ -1,0 +1,494 @@
+v21 and v14 cs
+                                 v14 Communists in U.S.
+v21 For U.S. Best Way Deal Russia Most Important Next Most Important Talked About Not Talked About
+   Talk over Problems                        328                 400          621             1638
+   Have Nothing to do with Russia            102                 110          160              436
+   Fight Russia                              107                 113          163              289
+   Qualified                                  11                  12           15               26
+
+	Pearson's Chi-squared test
+
+data:  fcs2114
+X-squared = 39.147, df = 9, p-value = 1.084e-05
+
+v21 and v14 ls
+                                 v14 Communists in U.S.
+v21 For U.S. Best Way Deal Russia Most Important Next Most Important Talked About Not Talked About
+   Talk over Problems                        114                 126          359              332
+   Have Nothing to do with Russia             39                  46           94               67
+   Fight Russia                               39                  32           70               51
+   Qualified                                   6                  12           32               18
+
+	Pearson's Chi-squared test
+
+data:  fls2114
+X-squared = 23.042, df = 9, p-value = 0.006102
+
+v21 and v15 cs
+                                 v15 Comm Threat Freedom U.S.
+v21 For U.S. Best Way Deal Russia Most Important Next Most Important Talked About Not Talked About
+   Talk over Problems                        406                 312          240             2025
+   Have Nothing to do with Russia            100                  70           67              569
+   Fight Russia                               93                  70          103              405
+   Qualified                                  13                   8            8               35
+
+	Pearson's Chi-squared test
+
+data:  fcs2114
+X-squared = 39.147, df = 9, p-value = 1.084e-05
+
+v21 and v15 ls
+                                 v15 Comm Threat Freedom U.S
+v21 For U.S. Best Way Deal Russia Most Important Next Most Important Talked About Not Talked About
+   Talk over Problems                        238                 142          135              416
+   Have Nothing to do with Russia             58                  32           40              116
+   Fight Russia                               34                  29           40               88
+   Qualified                                  23                  17           12               16
+
+	Pearson's Chi-squared test
+
+data:  fls2115
+X-squared = 23.036, df = 9, p-value = 0.006116
+
+v21 and v35 cs
+                                 v35 Don't Censor Socialist Speaker
+v21 For U.S. Best Way Deal Russia  Yes   No
+   Talk over Problems             1848  880
+   Have Nothing to do with Russia  475  265
+   Fight Russia                    374  254
+   Qualified                        44   16
+
+	Pearson's Chi-squared test
+
+data:  fcs2135
+X-squared = 17.82, df = 3, p-value = 0.0004791
+
+v21 and v35 ls
+                                 v35 Don't Censor Socialist Speaker
+v21 For U.S. Best Way Deal Russia Yes  No
+   Talk over Problems             811 110
+   Have Nothing to do with Russia 197  47
+   Fight Russia                   149  41
+   Qualified                       65   2
+
+	Pearson's Chi-squared test
+
+data:  fls2135
+X-squared = 24.563, df = 3, p-value = 1.905e-05
+
+v21 and v36 cs
+                                 v36 Don't Censor Socialist Teacher
+v21 For U.S. Best Way Deal Russia  Yes   No
+   Talk over Problems             1069 1589
+   Have Nothing to do with Russia  254  459
+   Fight Russia                    189  424
+   Qualified                        24   31
+
+	Pearson's Chi-squared test
+
+data:  fcs2136
+X-squared = 21.362, df = 3, p-value = 8.854e-05
+
+v21 and v36 ls
+                                 v36 Don't Censor Socialist Teacher
+v21 For U.S. Best Way Deal Russia Yes  No
+   Talk over Problems             472 410
+   Have Nothing to do with Russia 112 130
+   Fight Russia                    79 106
+   Qualified                       34  30
+
+	Pearson's Chi-squared test
+
+data:  fls2136
+X-squared = 9.5687, df = 3, p-value = 0.02261
+
+v21 and v37 cs
+                                 v37 Censor Socialist Book
+v21 For U.S. Best Way Deal Russia  Yes   No
+   Talk over Problems              992 1683
+   Have Nothing to do with Russia  320  396
+   Fight Russia                    274  353
+   Qualified                        18   40
+
+	Pearson's Chi-squared test
+
+data:  fcs2137
+X-squared = 20.97, df = 3, p-value = 0.0001068
+
+v21 and v37 ls
+                                 v37 Censor Socialist Book
+v21 For U.S. Best Way Deal Russia Yes  No
+   Talk over Problems             142 766
+   Have Nothing to do with Russia  58 186
+   Fight Russia                    54 137
+   Qualified                        8  60
+
+	Pearson's Chi-squared test
+
+data:  fls2137
+X-squared = 23.497, df = 3, p-value = 3.18e-05
+
+v21 and v42 cs
+                                 v42 American Comm Danger U.S. Rn
+v21 For U.S. Best Way Deal Russia Very Great Great Some Hardly Any   No
+   Talk over Problems                    508   716 1235        292   73
+   Have Nothing to do with Russia        168   190  296         83   17
+   Fight Russia                          217   162  193         53   20
+   Qualified                              13     8   28          8    4
+
+	Pearson's Chi-squared test
+
+data:  fcs2142
+X-squared = 98.401, df = 12, p-value = 1.145e-15
+
+v21 and v42 ls
+                                 v42 American Comm Danger U.S. Rn
+v21 For U.S. Best Way Deal Russia Very Great Great Some Hardly Any  No
+   Talk over Problems                    101   186  451        161  27
+   Have Nothing to do with Russia         39    68  105         33   3
+   Fight Russia                           61    43   71         15   3
+   Qualified                              16    17   24         10   2
+
+	Pearson's Chi-squared test
+
+data:  fls2142
+X-squared = 74.902, df = 12, p-value = 3.834e-11
+
+v21 and v43 cs
+                                 v43 Why Comm Dangerous?
+v21 For U.S. Best Way Deal Russia Espionage Sabotage Subversion and Conversion Dangerous, Other Not bc FBI Not bc McCathy Not, Other
+   Talk over Problems                   253      220                       871              733         67             11        257
+   Have Nothing to do with Russia        75       64                       228              193         15              4         66
+   Fight Russia                          53       49                       213              170         13              1         47
+   Qualified                              4        5                        21               15          4              0          7
+
+	Pearson's Chi-squared test
+
+data:  fcs2143
+X-squared = 12.11, df = 18, p-value = 0.8415
+
+v21 and v43 ls
+                                 v43 Why Comm Dangerous?
+v21 For U.S. Best Way Deal Russia Espionage Sabotage Subversion and Conversion Dangerous, Other Not bc FBI Not bc McCathy Not, Other
+   Talk over Problems                    56       48                       329              259         57              5        110
+   Have Nothing to do with Russia        20       13                       108               62          7              0         26
+   Fight Russia                          11       15                        72               67          4              1         14
+   Qualified                              6        3                        25               22          5              0          6
+
+	Pearson's Chi-squared test
+
+data:  fls2143
+X-squared = 24.994, df = 18, p-value = 0.1251
+
+v21 and v44 cs
+                                 v44 Can Cmnst be loyal Amrcn
+v21 For U.S. Best Way Deal Russia  Yes Qualified   No
+   Talk over Problems              164        56 2619
+   Have Nothing to do with Russia   45        10  717
+   Fight Russia                     34        15  607
+   Qualified                         2         0   59
+
+	Pearson's Chi-squared test
+
+data:  fcs2144
+X-squared = 4.3997, df = 6, p-value = 0.6228
+
+v21 and v44 ls
+                                 v44 Can Cmnst be loyal Amrcn
+v21 For U.S. Best Way Deal Russia Yes Qualified  No
+   Talk over Problems              49        41 826
+   Have Nothing to do with Russia   9         4 232
+   Fight Russia                     4         4 184
+   Qualified                        4         1  64
+
+	Pearson's Chi-squared test
+
+data:  fls2144
+X-squared = 12.054, df = 6, p-value = 0.06078
+
+skipping v45 out of confusion with the table, multiple rounds of questions, etc
+
+v21 and v46 cs
+                                 v46 What do Comm Believe
+v21 For U.S. Best Way Deal Russia Russia/World Dom Loss Individual Rights Gov Ownership Property Dictatorship Egalitarian Anti-Religon Immoral/Amoral Slogan
+   Talk over Problems                          372                    270                    551          533         488          716            120    182
+   Have Nothing to do with Russia              112                     78                    122          132         102          195             49     56
+   Fight Russia                                 86                     47                    137          149         104          176             39     57
+   Qualified                                     7                      6                     19           13          14           23              3      1
+
+	Pearson's Chi-squared test
+
+data:  fcs2146
+X-squared = 37.776, df = 21, p-value = 0.01369
+
+v21 and v46 ls
+                                 v46 What do Comm Believe
+v21 For U.S. Best Way Deal Russia Russia/World Dom Loss Individual Rights Gov Ownership Property Dictatorship Egalitarian Anti-Religon Immoral/Amoral Slogan
+   Talk over Problems                          121                    112                    255          318         198          230             50    164
+   Have Nothing to do with Russia               33                     34                     56           89          53           72             21     31
+   Fight Russia                                 28                     13                     34           68          32           47             11     37
+   Qualified                                    11                      7                     17           37          13           19              5      5
+
+	Pearson's Chi-squared test
+
+data:  fls2146
+X-squared = 30.626, df = 21, p-value = 0.08012
+
+v21 and v47 cs
+                                 v47 Have you known a Comm
+v21 For U.S. Best Way Deal Russia  Yes   No
+   Talk over Problems              438 2569
+   Have Nothing to do with Russia  150  668
+   Fight Russia                    161  512
+   Qualified                        16   48
+
+	Pearson's Chi-squared test
+
+data:  fcs2147
+X-squared = 39.681, df = 3, p-value = 1.245e-08
+
+v21 and v47 ls
+                                 v47 Have you known a Comm
+v21 For U.S. Best Way Deal Russia Yes  No
+   Talk over Problems             392 539
+   Have Nothing to do with Russia 115 134
+   Fight Russia                    96  97
+   Qualified                       34  35
+
+	Pearson's Chi-squared test
+
+data:  fls2147
+X-squared = 5.1775, df = 3, p-value = 0.1593
+
+v21 and v48 cs
+                                 v48 How could you tell/know?
+v21 For U.S. Best Way Deal Russia It was admitted What was Said/Read Groups/Organizations Deviant/Strange Behavior
+   Talk over Problems                          86                274                   31                       67
+   Have Nothing to do with Russia              27                105                    9                       17
+   Fight Russia                                28                 99                   11                       29
+   Qualified                                    3                 12                    1                        2
+
+	Pearson's Chi-squared test
+
+data:  fcs2148
+X-squared = 4.2964, df = 9, p-value = 0.8908
+
+v21 and v48 ls
+                                 v48 How could you tell/know?
+v21 For U.S. Best Way Deal Russia It was admitted What was Said/Read Groups/Organizations Deviant/Strange Behavior
+   Talk over Problems                         113                233                   31                       46
+   Have Nothing to do with Russia              14                 79                   18                       15
+   Fight Russia                                29                 58                    7                        9
+   Qualified                                    8                 20                    2                        6
+
+	Pearson's Chi-squared test
+
+data:  fls2148
+X-squared = 19.915, df = 9, p-value = 0.01845
+
+v21 and v49 cs
+                                 v49 Your city asked you to report Comm to FBI
+v21 For U.S. Best Way Deal Russia  Yes   No
+   Talk over Problems              233 2551
+   Have Nothing to do with Russia   65  682
+   Fight Russia                     84  534
+   Qualified                         9   52
+
+	Pearson's Chi-squared test
+
+data:  fcs2149
+X-squared = 18.848, df = 3, p-value = 0.000294
+
+v21 and v49 ls
+                                 v49 Your city asked you to report Comm to FBI
+v21 For U.S. Best Way Deal Russia Yes  No
+   Talk over Problems             392 539
+   Have Nothing to do with Russia 115 134
+   Fight Russia                    96  97
+   Qualified                       34  35
+
+	Pearson's Chi-squared test
+
+data:  fls2149
+X-squared = 5.1775, df = 3, p-value = 0.1593
+
+v21 and v50 cs
+                                 v50 Heard of other cities citizens asked to report Comm to FBI
+v21 For U.S. Best Way Deal Russia Yes  No
+   Talk over Problems             233 958
+   Have Nothing to do with Russia  65 237
+   Fight Russia                    84 223
+   Qualified                        9  21
+
+	Pearson's Chi-squared test
+
+data:  fcs2150
+X-squared = 10.207, df = 3, p-value = 0.01688
+
+v21 and v50 ls
+                                 v50 Heard of other cities citizens asked to report Comm to FBI
+v21 For U.S. Best Way Deal Russia Yes  No
+   Talk over Problems             232 422
+   Have Nothing to do with Russia  72  97
+   Fight Russia                    49  89
+   Qualified                       18  40
+
+	Pearson's Chi-squared test
+
+data:  fls2150
+X-squared = 3.82, df = 3, p-value = 0.2816
+
+v21 and v51 cs
+                                 v51 Discussed v50 idea with anyone
+v21 For U.S. Best Way Deal Russia  Yes   No
+   Talk over Problems             2777   83
+   Have Nothing to do with Russia  754   22
+   Fight Russia                    591   40
+   Qualified                        55    3
+
+	Pearson's Chi-squared test
+
+data:  fcs2151
+X-squared = 19.933, df = 3, p-value = 0.0001752
+
+v21 and v51 ls
+                                 v51 Discussed v50 idea with anyone
+v21 For U.S. Best Way Deal Russia Yes  No
+   Talk over Problems             704 142
+   Have Nothing to do with Russia 177  44
+   Fight Russia                   144  32
+   Qualified                       51  11
+
+	Pearson's Chi-squared test
+
+data:  fls2151
+X-squared = 1.2428, df = 3, p-value = 0.7428
+
+v21 and v52 cs
+                                 v52 Do you think reporting neighbors a good idea
+v21 For U.S. Best Way Deal Russia  Yes   No
+   Talk over Problems             2226  582
+   Have Nothing to do with Russia  600  164
+   Fight Russia                    506  127
+   Qualified                        37   20
+
+	Pearson's Chi-squared test
+
+data:  fcs2152
+X-squared = 7.3868, df = 3, p-value = 0.06054
+
+v21 and v52 ls
+                                 v52 Do you think reporting neighbors a good idea
+v21 For U.S. Best Way Deal Russia Yes  No
+   Talk over Problems             575 323
+   Have Nothing to do with Russia 175  65
+   Fight Russia                   137  54
+   Qualified                       40  29
+
+	Pearson's Chi-squared test
+
+data:  fls2152
+X-squared = 11.434, df = 3, p-value = 0.009597
+
+v21 and v53 cs
+                                 v53 Is v52 dangerous, how?
+v21 For U.S. Best Way Deal Russia No Dangers Fear/Reprisal Hurt Innocent/Wrongly Accused Malicious Reporting Atmosphere Suspicion/Mistrust Inefficent/Wasteful
+   Talk over Problems                    960           564                           342                  68                           103                  22
+   Have Nothing to do with Russia        296           138                            50                  26                            17                   2
+   Fight Russia                          246           130                            60                  16                             7                   2
+   Qualified                              21             3                             5                   0                             3                   0
+                                 v53 Is v52 dangerous, how?
+v21 For U.S. Best Way Deal Russia Un-American/Undemocratic Other Danger
+   Talk over Problems                                   15          123
+   Have Nothing to do with Russia                        2           34
+   Fight Russia                                          1           31
+   Qualified                                             1            2
+
+	Pearson's Chi-squared test
+
+data:  fcs2153
+X-squared = 58.637, df = 21, p-value = 2.049e-05
+
+v21 and v53 ls
+                                 v53 Is v52 dangerous, how?
+v21 For U.S. Best Way Deal Russia No Dangers Fear/Reprisal Hurt Innocent/Wrongly Accused Malicious Reporting Atmosphere Suspicion/Mistrust Inefficent/Wasteful
+   Talk over Problems                    226            46                           160                  81                            26                  14
+   Have Nothing to do with Russia         89             8                            43                  27                             5                   3
+   Fight Russia                           79            11                            31                  12                             6                   1
+   Qualified                              12             1                            13                   6                             9                   1
+                                 v53 Is v52 dangerous, how?
+v21 For U.S. Best Way Deal Russia Un-American/Undemocratic Other Danger
+   Talk over Problems                                   28           41
+   Have Nothing to do with Russia                        5           11
+   Fight Russia                                          7            4
+   Qualified                                             3            2
+
+	Pearson's Chi-squared test
+
+data:  fls2153
+X-squared = 52.024, df = 21, p-value = 0.0001895
+
+v21 and v55 cs
+                                 v55 How is reporting aquaintances dangerous?
+v21 For U.S. Best Way Deal Russia Fear/Reprisal Hurt Innocent/Wrongly Accused Malicious Reporting Atmosphere Suspicion/Mistrust Inefficent/Wasteful
+   Talk over Problems                        32                           219                 105                           165                  48
+   Have Nothing to do with Russia            18                            55                  30                            43                  15
+   Fight Russia                               5                            52                  28                            24                  13
+   Qualified                                  0                             8                   4                             7                   1
+                                 v55 How is reporting aquaintances dangerous?
+v21 For U.S. Best Way Deal Russia Un-American/Undemocratic Other Danger
+   Talk over Problems                                   93           66
+   Have Nothing to do with Russia                       22           22
+   Fight Russia                                         18           21
+   Qualified                                             4            2
+
+	Pearson's Chi-squared test
+
+data:  fcs2155
+X-squared = 18.992, df = 18, p-value = 0.3923
+
+v21 and v55 ls
+                                 v55 How is reporting aquaintances dangerous?
+v21 For U.S. Best Way Deal Russia Fear/Reprisal Hurt Innocent/Wrongly Accused Malicious Reporting Atmosphere Suspicion/Mistrust Inefficent/Wasteful
+   Talk over Problems                         5                           104                 108                           103                  38
+   Have Nothing to do with Russia             1                            16                  23                            18                  12
+   Fight Russia                               1                            22                  17                             7                   8
+   Qualified                                  0                             9                  10                             5                   7
+                                 v55 How is reporting aquaintances dangerous?
+v21 For U.S. Best Way Deal Russia Un-American/Undemocratic Other Danger
+   Talk over Problems                                   96           20
+   Have Nothing to do with Russia                       13            1
+   Fight Russia                                         17            3
+   Qualified                                             9            2
+
+	Pearson's Chi-squared test
+
+data:  fls2155
+X-squared = 18.19, df = 18, p-value = 0.4432
+
+v21 and v57 cs
+                                 v57 To catch Comm, Can gov listen to phone calls?
+v21 For U.S. Best Way Deal Russia  Yes   No
+   Talk over Problems             1937  850
+   Have Nothing to do with Russia  548  211
+   Fight Russia                    483  155
+   Qualified                        40   16
+
+	Pearson's Chi-squared test
+
+data:  fcs2157
+X-squared = 10.418, df = 3, p-value = 0.01533
+
+v21 and v57 ls
+                                 v57 To catch Comm, Can gov listen to phone calls?
+v21 For U.S. Best Way Deal Russia Yes  No
+   Talk over Problems             558 322
+   Have Nothing to do with Russia 161  77
+   Fight Russia                   131  53
+   Qualified                       41  23
+
+	Pearson's Chi-squared test
+
+data:  fls2157
+X-squared = 4.825, df = 3, p-value = 0.1851
+

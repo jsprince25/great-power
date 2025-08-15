@@ -1,0 +1,686 @@
+v18 and v14 cs
+                                                  v14 Communists in U.S.
+v18 To Save Euro from Comm take over, Fight Russia Most Important Next Most Important
+                    Let Comm Take Over                         42                  44
+                    Fight Russia                              445                 512
+                    Fight Russia i.f.f Allies help              8                   9
+                    Other                                      14                  22
+                                                  v14 Communists in U.S.
+v18 To Save Euro from Comm take over, Fight Russia Talked About Not Talked About
+                    Let Comm Take Over                       93              257
+                    Fight Russia                            771             1699
+                    Fight Russia i.f.f Allies help           11               37
+                    Other                                    31               80
+
+	Pearson's Chi-squared test
+
+data:  fcs1814
+X-squared = 19.644, df = 9, p-value = 0.02024
+
+v18 and v14 ls
+                                                  v14 Communists in U.S.
+v18 To Save Euro from Comm take over, Fight Russia Most Important Next Most Important
+                    Let Comm Take Over                         13                  15
+                    Fight Russia                              166                 176
+                    Fight Russia i.f.f Allies help              6                  10
+                    Other                                       8                   7
+                                                  v14 Communists in U.S.
+v18 To Save Euro from Comm take over, Fight Russia Talked About Not Talked About
+                    Let Comm Take Over                       49               55
+                    Fight Russia                            433              344
+                    Fight Russia i.f.f Allies help           25               18
+                    Other                                    25               25
+
+	Pearson's Chi-squared test
+
+data:  fls1814
+X-squared = 10.929, df = 9, p-value = 0.2806
+
+v18 and v15 cs
+                                                  v15 Comm Threat Freedom U.S.
+v18 To Save Euro from Comm take over, Fight Russia Most Important Next Most Important
+                    Let Comm Take Over                         54                  36
+                    Fight Russia                              477                 350
+                    Fight Russia i.f.f Allies help              9                   9
+                    Other                                      20                  17
+                                                  v15 Comm Threat Freedom U.S.
+v18 To Save Euro from Comm take over, Fight Russia Talked About Not Talked About
+                    Let Comm Take Over                       30              315
+                    Fight Russia                            339             2256
+                    Fight Russia i.f.f Allies help            6               41
+                    Other                                    16               94
+
+	Pearson's Chi-squared test
+
+data:  fcs1814
+X-squared = 19.644, df = 9, p-value = 0.02024
+
+v18 and v15 ls
+                                                  v15 Comm Threat Freedom U.S
+v18 To Save Euro from Comm take over, Fight Russia Most Important Next Most Important
+                    Let Comm Take Over                         29                  20
+                    Fight Russia                              265                 174
+                    Fight Russia i.f.f Allies help             18                   8
+                    Other                                      21                  10
+                                                  v15 Comm Threat Freedom U.S
+v18 To Save Euro from Comm take over, Fight Russia Talked About Not Talked About
+                    Let Comm Take Over                       14               70
+                    Fight Russia                            181              498
+                    Fight Russia i.f.f Allies help           11               22
+                    Other                                    16               18
+
+	Pearson's Chi-squared test
+
+data:  fls1815
+X-squared = 15.853, df = 9, p-value = 0.07002
+
+v18 and v35 cs
+                                                  v35 Don't Censor Socialist Speaker
+v18 To Save Euro from Comm take over, Fight Russia  Yes   No
+                    Let Comm Take Over              289  119
+                    Fight Russia                   2121 1083
+                    Fight Russia i.f.f Allies help   49   16
+                    Other                            86   48
+
+	Pearson's Chi-squared test
+
+data:  fcs1835
+X-squared = 6.088, df = 3, p-value = 0.1074
+
+v18 and v35 ls
+                                                  v35 Don't Censor Socialist Speaker
+v18 To Save Euro from Comm take over, Fight Russia Yes  No
+                    Let Comm Take Over             122  11
+                    Fight Russia                   926 183
+                    Fight Russia i.f.f Allies help  55   2
+                    Other                           63   3
+
+	Pearson's Chi-squared test
+
+data:  fls1835
+X-squared = 18.486, df = 3, p-value = 0.0003492
+
+v18 and v36 cs
+                                                  v36 Don't Censor Socialist Teacher
+v18 To Save Euro from Comm take over, Fight Russia  Yes   No
+                    Let Comm Take Over              169  222
+                    Fight Russia                   1179 1922
+                    Fight Russia i.f.f Allies help   27   35
+                    Other                            43   86
+
+	Pearson's Chi-squared test
+
+data:  fcs1836
+X-squared = 6.1063, df = 3, p-value = 0.1066
+
+v18 and v36 ls
+                                                  v36 Don't Censor Socialist Teacher
+v18 To Save Euro from Comm take over, Fight Russia Yes  No
+                    Let Comm Take Over              69  62
+                    Fight Russia                   530 540
+                    Fight Russia i.f.f Allies help  28  27
+                    Other                           43  18
+
+	Pearson's Chi-squared test
+
+data:  fls1836
+X-squared = 10.333, df = 3, p-value = 0.01594
+
+v18 and v37 cs
+                                                  v37 Censor Socialist Book
+v18 To Save Euro from Comm take over, Fight Russia  Yes   No
+                    Let Comm Take Over              127  271
+                    Fight Russia                   1247 1878
+                    Fight Russia i.f.f Allies help   23   42
+                    Other                            46   81
+
+	Pearson's Chi-squared test
+
+data:  fcs1837
+X-squared = 10.23, df = 3, p-value = 0.01671
+
+v18 and v37 ls
+                                                  v37 Censor Socialist Book
+v18 To Save Euro from Comm take over, Fight Russia Yes  No
+                    Let Comm Take Over              29 103
+                    Fight Russia                   211 884
+                    Fight Russia i.f.f Allies help   6  54
+                    Other                            6  60
+
+	Pearson's Chi-squared test
+
+data:  fls1837
+X-squared = 8.1776, df = 3, p-value = 0.04248
+
+v18 and v42 cs
+                                                  v42 American Comm Danger U.S. Rn
+v18 To Save Euro from Comm take over, Fight Russia Very Great Great Some Hardly Any   No
+                    Let Comm Take Over                     60    96  168         65   14
+                    Fight Russia                          747   869 1312        301   82
+                    Fight Russia i.f.f Allies help         10    13   26          6    4
+                    Other                                  32    27   58         17    4
+
+	Pearson's Chi-squared test
+
+data:  fcs1842
+X-squared = 38.481, df = 12, p-value = 0.0001281
+
+v18 and v42 ls
+                                                  v42 American Comm Danger U.S. Rn
+v18 To Save Euro from Comm take over, Fight Russia Very Great Great Some Hardly Any  No
+                    Let Comm Take Over                     17    23   58         29   7
+                    Fight Russia                          191   255  499        149  23
+                    Fight Russia i.f.f Allies help          5    13   32          8   1
+                    Other                                   4    15   25         19   2
+
+	Pearson's Chi-squared test
+
+data:  fls1842
+X-squared = 31.605, df = 12, p-value = 0.001591
+
+v18 and v43 cs
+                                                  v43 Why Comm Dangerous?
+v18 To Save Euro from Comm take over, Fight Russia Espionage Sabotage
+                    Let Comm Take Over                    44       22
+                    Fight Russia                         305      280
+                    Fight Russia i.f.f Allies help         5        8
+                    Other                                 17       10
+                                                  v43 Why Comm Dangerous?
+v18 To Save Euro from Comm take over, Fight Russia Subversion and Conversion Dangerous, Other
+                    Let Comm Take Over                                   123               88
+                    Fight Russia                                        1066              865
+                    Fight Russia i.f.f Allies help                        18               21
+                    Other                                                 43               28
+                                                  v43 Why Comm Dangerous?
+v18 To Save Euro from Comm take over, Fight Russia Not bc FBI Not bc McCathy Not, Other
+                    Let Comm Take Over                     10              1         55
+                    Fight Russia                           77             15        261
+                    Fight Russia i.f.f Allies help          1              0          7
+                    Other                                   5              0         16
+
+	Pearson's Chi-squared test
+
+data:  fcs1843
+X-squared = 31.717, df = 18, p-value = 0.02375
+
+v18 and v43 ls
+                                                  v43 Why Comm Dangerous?
+v18 To Save Euro from Comm take over, Fight Russia Espionage Sabotage
+                    Let Comm Take Over                     4        5
+                    Fight Russia                          80       65
+                    Fight Russia i.f.f Allies help         7        4
+                    Other                                  3        1
+                                                  v43 Why Comm Dangerous?
+v18 To Save Euro from Comm take over, Fight Russia Subversion and Conversion Dangerous, Other
+                    Let Comm Take Over                                    47               41
+                    Fight Russia                                         427              315
+                    Fight Russia i.f.f Allies help                        26               16
+                    Other                                                 17               19
+                                                  v43 Why Comm Dangerous?
+v18 To Save Euro from Comm take over, Fight Russia Not bc FBI Not bc McCathy Not, Other
+                    Let Comm Take Over                      6              1         24
+                    Fight Russia                           55              5        100
+                    Fight Russia i.f.f Allies help          5              0          4
+                    Other                                   4              0         15
+
+	Pearson's Chi-squared test
+
+data:  fls1843
+X-squared = 34.166, df = 18, p-value = 0.01201
+
+v18 and v44 cs
+                                                  v44 Can Cmnst be loyal Amrcn
+v18 To Save Euro from Comm take over, Fight Russia  Yes Qualified   No
+                    Let Comm Take Over               29         7  374
+                    Fight Russia                    165        64 3097
+                    Fight Russia i.f.f Allies help    6         0   59
+                    Other                            13         7  119
+
+	Pearson's Chi-squared test
+
+data:  fcs1844
+X-squared = 18.077, df = 6, p-value = 0.006043
+
+v18 and v44 ls
+                                                  v44 Can Cmnst be loyal Amrcn
+v18 To Save Euro from Comm take over, Fight Russia  Yes Qualified   No
+                    Let Comm Take Over               10         4  115
+                    Fight Russia                     49        37 1027
+                    Fight Russia i.f.f Allies help    1         2   56
+                    Other                             5         7   49
+
+	Pearson's Chi-squared test
+
+data:  fls1844
+X-squared = 17.057, df = 6, p-value = 0.009074
+
+skipping v45 out of confusion with the table, multiple rounds of questions, etc
+
+v18 and v46 cs
+                                                  v46 What do Comm Believe
+v18 To Save Euro from Comm take over, Fight Russia Russia/World Dom Loss Individual Rights
+                    Let Comm Take Over                           68                     32
+                    Fight Russia                                470                    318
+                    Fight Russia i.f.f Allies help                5                      9
+                    Other                                        16                     12
+                                                  v46 What do Comm Believe
+v18 To Save Euro from Comm take over, Fight Russia Gov Ownership Property Dictatorship
+                    Let Comm Take Over                                 73           59
+                    Fight Russia                                      659          668
+                    Fight Russia i.f.f Allies help                     15           17
+                    Other                                              28           30
+                                                  v46 What do Comm Believe
+v18 To Save Euro from Comm take over, Fight Russia Egalitarian Anti-Religon Immoral/Amoral
+                    Let Comm Take Over                      75           76             30
+                    Fight Russia                           549          893            165
+                    Fight Russia i.f.f Allies help          10           16              2
+                    Other                                   30           47              8
+                                                  v46 What do Comm Believe
+v18 To Save Euro from Comm take over, Fight Russia Slogan
+                    Let Comm Take Over                 38
+                    Fight Russia                      230
+                    Fight Russia i.f.f Allies help      6
+                    Other                               3
+
+	Pearson's Chi-squared test
+
+data:  fcs1846
+X-squared = 41.828, df = 21, p-value = 0.004423
+
+v18 and v46 ls
+                                                  v46 What do Comm Believe
+v18 To Save Euro from Comm take over, Fight Russia Russia/World Dom Loss Individual Rights
+                    Let Comm Take Over                           15                     16
+                    Fight Russia                                146                    135
+                    Fight Russia i.f.f Allies help                9                      7
+                    Other                                        12                      7
+                                                  v46 What do Comm Believe
+v18 To Save Euro from Comm take over, Fight Russia Gov Ownership Property Dictatorship
+                    Let Comm Take Over                                 31           53
+                    Fight Russia                                      289          382
+                    Fight Russia i.f.f Allies help                     20           18
+                    Other                                              13           25
+                                                  v46 What do Comm Believe
+v18 To Save Euro from Comm take over, Fight Russia Egalitarian Anti-Religon Immoral/Amoral
+                    Let Comm Take Over                      23           21             10
+                    Fight Russia                           244          296             65
+                    Fight Russia i.f.f Allies help           3           17              2
+                    Other                                    9           19              4
+                                                  v46 What do Comm Believe
+v18 To Save Euro from Comm take over, Fight Russia Slogan
+                    Let Comm Take Over                 20
+                    Fight Russia                      185
+                    Fight Russia i.f.f Allies help     10
+                    Other                              11
+
+	Pearson's Chi-squared test
+
+data:  fls1846
+X-squared = 22.982, df = 21, p-value = 0.3449
+
+v18 and v47 cs
+                                                  v47 Have you known a Comm
+v18 To Save Euro from Comm take over, Fight Russia  Yes   No
+                    Let Comm Take Over               75  363
+                    Fight Russia                    619 2826
+                    Fight Russia i.f.f Allies help   17   48
+                    Other                            23  125
+
+	Pearson's Chi-squared test
+
+data:  fcs1847
+X-squared = 3.7601, df = 3, p-value = 0.2886
+
+v18 and v47 ls
+                                                  v47 Have you known a Comm
+v18 To Save Euro from Comm take over, Fight Russia Yes  No
+                    Let Comm Take Over              60  73
+                    Fight Russia                   497 623
+                    Fight Russia i.f.f Allies help  24  36
+                    Other                           32  34
+
+	Pearson's Chi-squared test
+
+data:  fls1847
+X-squared = 0.94254, df = 3, p-value = 0.8152
+
+v18 and v48 cs
+                                                  v48 How could you tell/know?
+v18 To Save Euro from Comm take over, Fight Russia It was admitted What was Said/Read
+                    Let Comm Take Over                          20                 43
+                    Fight Russia                               107                400
+                    Fight Russia i.f.f Allies help               5                 11
+                    Other                                        4                 16
+                                                  v48 How could you tell/know?
+v18 To Save Euro from Comm take over, Fight Russia Groups/Organizations
+                    Let Comm Take Over                                5
+                    Fight Russia                                     47
+                    Fight Russia i.f.f Allies help                    0
+                    Other                                             0
+                                                  v48 How could you tell/know?
+v18 To Save Euro from Comm take over, Fight Russia Deviant/Strange Behavior
+                    Let Comm Take Over                                   11
+                    Fight Russia                                         95
+                    Fight Russia i.f.f Allies help                        1
+                    Other                                                 2
+
+	Pearson's Chi-squared test
+
+data:  fcs1848
+X-squared = 9.7575, df = 9, p-value = 0.3705
+
+v18 and v48 ls
+                                                  v48 How could you tell/know?
+v18 To Save Euro from Comm take over, Fight Russia It was admitted What was Said/Read
+                    Let Comm Take Over                          13                 41
+                    Fight Russia                               125                301
+                    Fight Russia i.f.f Allies help               3                 19
+                    Other                                       11                 20
+                                                  v48 How could you tell/know?
+v18 To Save Euro from Comm take over, Fight Russia Groups/Organizations
+                    Let Comm Take Over                                5
+                    Fight Russia                                     43
+                    Fight Russia i.f.f Allies help                    2
+                    Other                                             2
+                                                  v48 How could you tell/know?
+v18 To Save Euro from Comm take over, Fight Russia Deviant/Strange Behavior
+                    Let Comm Take Over                                    6
+                    Fight Russia                                         63
+                    Fight Russia i.f.f Allies help                        3
+                    Other                                                 3
+
+	Pearson's Chi-squared test
+
+data:  fls1848
+X-squared = 5.0259, df = 9, p-value = 0.832
+
+v18 and v49 cs
+                                                  v49 Your city asked you to report Comm to FBI
+v18 To Save Euro from Comm take over, Fight Russia  Yes   No
+                    Let Comm Take Over               32  366
+                    Fight Russia                    315 2877
+                    Fight Russia i.f.f Allies help    6   56
+                    Other                             9  128
+
+	Pearson's Chi-squared test
+
+data:  fcs1849
+X-squared = 2.8341, df = 3, p-value = 0.4179
+
+v18 and v49 ls
+                                                  v49 Your city asked you to report Comm to FBI
+v18 To Save Euro from Comm take over, Fight Russia Yes  No
+                    Let Comm Take Over              60  73
+                    Fight Russia                   497 623
+                    Fight Russia i.f.f Allies help  24  36
+                    Other                           32  34
+
+	Pearson's Chi-squared test
+
+data:  fls1849
+X-squared = 0.94254, df = 3, p-value = 0.8152
+
+v18 and v50 cs
+                                                  v50 Heard of other cities citizens asked to report Comm to FBI
+v18 To Save Euro from Comm take over, Fight Russia  Yes   No
+                    Let Comm Take Over               32  141
+                    Fight Russia                    315 1113
+                    Fight Russia i.f.f Allies help    6   26
+                    Other                             9   52
+
+	Pearson's Chi-squared test
+
+data:  fcs1850
+X-squared = 2.9727, df = 3, p-value = 0.3959
+
+v18 and v50 ls
+                                                  v50 Heard of other cities citizens asked to report Comm to FBI
+v18 To Save Euro from Comm take over, Fight Russia Yes  No
+                    Let Comm Take Over              24  62
+                    Fight Russia                   310 496
+                    Fight Russia i.f.f Allies help   6  30
+                    Other                           12  33
+
+	Pearson's Chi-squared test
+
+data:  fls1850
+X-squared = 12.067, df = 3, p-value = 0.007157
+
+v18 and v51 cs
+                                                  v51 Discussed v50 idea with anyone
+v18 To Save Euro from Comm take over, Fight Russia  Yes   No
+                    Let Comm Take Over              406   10
+                    Fight Russia                   3135  129
+                    Fight Russia i.f.f Allies help   60    2
+                    Other                           139    4
+
+	Pearson's Chi-squared test
+
+data:  fcs1851
+X-squared = 2.8749, df = 3, p-value = 0.4113
+
+v18 and v51 ls
+                                                  v51 Discussed v50 idea with anyone
+v18 To Save Euro from Comm take over, Fight Russia Yes  No
+                    Let Comm Take Over             110  12
+                    Fight Russia                   813 197
+                    Fight Russia i.f.f Allies help  54   4
+                    Other                           55   7
+
+	Pearson's Chi-squared test
+
+data:  fls1851
+X-squared = 13.899, df = 3, p-value = 0.003046
+
+v18 and v52 cs
+                                                  v52 Do you think reporting neighbors a good idea
+v18 To Save Euro from Comm take over, Fight Russia  Yes   No
+                    Let Comm Take Over              293  110
+                    Fight Russia                   2622  643
+                    Fight Russia i.f.f Allies help   43   17
+                    Other                            97   43
+
+	Pearson's Chi-squared test
+
+data:  fcs1852
+X-squared = 22.878, df = 3, p-value = 4.282e-05
+
+v18 and v52 ls
+                                                  v52 Do you think reporting neighbors a good idea
+v18 To Save Euro from Comm take over, Fight Russia Yes  No
+                    Let Comm Take Over              79  49
+                    Fight Russia                   745 342
+                    Fight Russia i.f.f Allies help  27  30
+                    Other                           35  30
+
+	Pearson's Chi-squared test
+
+data:  fls1852
+X-squared = 17.284, df = 3, p-value = 0.0006177
+
+v18 and v53 cs
+                                                  v53 Is v52 dangerous, how?
+v18 To Save Euro from Comm take over, Fight Russia No Dangers Fear/Reprisal
+                    Let Comm Take Over                    135            67
+                    Fight Russia                         1222           665
+                    Fight Russia i.f.f Allies help         19             5
+                    Other                                  34            24
+                                                  v53 Is v52 dangerous, how?
+v18 To Save Euro from Comm take over, Fight Russia Hurt Innocent/Wrongly Accused
+                    Let Comm Take Over                                        27
+                    Fight Russia                                             374
+                    Fight Russia i.f.f Allies help                             9
+                    Other                                                     12
+                                                  v53 Is v52 dangerous, how?
+v18 To Save Euro from Comm take over, Fight Russia Malicious Reporting
+                    Let Comm Take Over                              15
+                    Fight Russia                                    83
+                    Fight Russia i.f.f Allies help                   3
+                    Other                                            5
+                                                  v53 Is v52 dangerous, how?
+v18 To Save Euro from Comm take over, Fight Russia Atmosphere Suspicion/Mistrust
+                    Let Comm Take Over                                         9
+                    Fight Russia                                             106
+                    Fight Russia i.f.f Allies help                             3
+                    Other                                                      1
+                                                  v53 Is v52 dangerous, how?
+v18 To Save Euro from Comm take over, Fight Russia Inefficent/Wasteful
+                    Let Comm Take Over                               3
+                    Fight Russia                                    21
+                    Fight Russia i.f.f Allies help                   1
+                    Other                                            1
+                                                  v53 Is v52 dangerous, how?
+v18 To Save Euro from Comm take over, Fight Russia Un-American/Undemocratic Other Danger
+                    Let Comm Take Over                                    0           27
+                    Fight Russia                                         14          126
+                    Fight Russia i.f.f Allies help                        1            4
+                    Other                                                 4            9
+
+	Pearson's Chi-squared test
+
+data:  fcs1853
+X-squared = 61.107, df = 21, p-value = 8.67e-06
+
+v18 and v53 ls
+                                                  v53 Is v52 dangerous, how?
+v18 To Save Euro from Comm take over, Fight Russia No Dangers Fear/Reprisal
+                    Let Comm Take Over                     37             4
+                    Fight Russia                          325            59
+                    Fight Russia i.f.f Allies help         12             2
+                    Other                                  12             2
+                                                  v53 Is v52 dangerous, how?
+v18 To Save Euro from Comm take over, Fight Russia Hurt Innocent/Wrongly Accused
+                    Let Comm Take Over                                        16
+                    Fight Russia                                             200
+                    Fight Russia i.f.f Allies help                            10
+                    Other                                                     12
+                                                  v53 Is v52 dangerous, how?
+v18 To Save Euro from Comm take over, Fight Russia Malicious Reporting
+                    Let Comm Take Over                              12
+                    Fight Russia                                   102
+                    Fight Russia i.f.f Allies help                   1
+                    Other                                            7
+                                                  v53 Is v52 dangerous, how?
+v18 To Save Euro from Comm take over, Fight Russia Atmosphere Suspicion/Mistrust
+                    Let Comm Take Over                                         3
+                    Fight Russia                                              38
+                    Fight Russia i.f.f Allies help                             3
+                    Other                                                      1
+                                                  v53 Is v52 dangerous, how?
+v18 To Save Euro from Comm take over, Fight Russia Inefficent/Wasteful
+                    Let Comm Take Over                               3
+                    Fight Russia                                    15
+                    Fight Russia i.f.f Allies help                   0
+                    Other                                            0
+                                                  v53 Is v52 dangerous, how?
+v18 To Save Euro from Comm take over, Fight Russia Un-American/Undemocratic Other Danger
+                    Let Comm Take Over                                    8            4
+                    Fight Russia                                         33           47
+                    Fight Russia i.f.f Allies help                        1            1
+                    Other                                                 1            2
+
+	Pearson's Chi-squared test
+
+data:  fls1853
+X-squared = 18.585, df = 21, p-value = 0.6118
+
+v18 and v55 cs
+                                                  v55 How is reporting aquaintances dangerous?
+v18 To Save Euro from Comm take over, Fight Russia Fear/Reprisal Hurt Innocent/Wrongly Accused
+                    Let Comm Take Over                        11                            37
+                    Fight Russia                              34                           240
+                    Fight Russia i.f.f Allies help             1                             7
+                    Other                                      3                            17
+                                                  v55 How is reporting aquaintances dangerous?
+v18 To Save Euro from Comm take over, Fight Russia Malicious Reporting
+                    Let Comm Take Over                              17
+                    Fight Russia                                   122
+                    Fight Russia i.f.f Allies help                   5
+                    Other                                           11
+                                                  v55 How is reporting aquaintances dangerous?
+v18 To Save Euro from Comm take over, Fight Russia Atmosphere Suspicion/Mistrust
+                    Let Comm Take Over                                        36
+                    Fight Russia                                             165
+                    Fight Russia i.f.f Allies help                             5
+                    Other                                                     13
+                                                  v55 How is reporting aquaintances dangerous?
+v18 To Save Euro from Comm take over, Fight Russia Inefficent/Wasteful
+                    Let Comm Take Over                               9
+                    Fight Russia                                    62
+                    Fight Russia i.f.f Allies help                   0
+                    Other                                            2
+                                                  v55 How is reporting aquaintances dangerous?
+v18 To Save Euro from Comm take over, Fight Russia Un-American/Undemocratic Other Danger
+                    Let Comm Take Over                                   22            8
+                    Fight Russia                                         98           86
+                    Fight Russia i.f.f Allies help                        2            0
+                    Other                                                 9            3
+
+	Pearson's Chi-squared test
+
+data:  fcs1855
+X-squared = 19.342, df = 18, p-value = 0.3711
+
+v18 and v55 ls
+                                                  v55 How is reporting aquaintances dangerous?
+v18 To Save Euro from Comm take over, Fight Russia Fear/Reprisal Hurt Innocent/Wrongly Accused
+                    Let Comm Take Over                         0                            17
+                    Fight Russia                               6                           113
+                    Fight Russia i.f.f Allies help             1                             6
+                    Other                                      0                             9
+                                                  v55 How is reporting aquaintances dangerous?
+v18 To Save Euro from Comm take over, Fight Russia Malicious Reporting
+                    Let Comm Take Over                              17
+                    Fight Russia                                   121
+                    Fight Russia i.f.f Allies help                  14
+                    Other                                            4
+                                                  v55 How is reporting aquaintances dangerous?
+v18 To Save Euro from Comm take over, Fight Russia Atmosphere Suspicion/Mistrust
+                    Let Comm Take Over                                        12
+                    Fight Russia                                              96
+                    Fight Russia i.f.f Allies help                             8
+                    Other                                                     11
+                                                  v55 How is reporting aquaintances dangerous?
+v18 To Save Euro from Comm take over, Fight Russia Inefficent/Wasteful
+                    Let Comm Take Over                               7
+                    Fight Russia                                    44
+                    Fight Russia i.f.f Allies help                   2
+                    Other                                            8
+                                                  v55 How is reporting aquaintances dangerous?
+v18 To Save Euro from Comm take over, Fight Russia Un-American/Undemocratic Other Danger
+                    Let Comm Take Over                                   12            5
+                    Fight Russia                                         98           16
+                    Fight Russia i.f.f Allies help                       11            0
+                    Other                                                11            1
+
+	Pearson's Chi-squared test
+
+data:  fls1855
+X-squared = 20.848, df = 18, p-value = 0.2872
+
+v18 and v57 cs
+                                                  v57 To catch Comm, Can gov listen to phone calls?
+v18 To Save Euro from Comm take over, Fight Russia  Yes   No
+                    Let Comm Take Over              250  164
+                    Fight Russia                   2381  874
+                    Fight Russia i.f.f Allies help   38   21
+                    Other                            94   42
+
+	Pearson's Chi-squared test
+
+data:  fcs1857
+X-squared = 31.276, df = 3, p-value = 7.435e-07
+
+v18 and v57 ls
+                                                  v57 To catch Comm, Can gov listen to phone calls?
+v18 To Save Euro from Comm take over, Fight Russia Yes  No
+                    Let Comm Take Over              74  51
+                    Fight Russia                   699 361
+                    Fight Russia i.f.f Allies help  37  20
+                    Other                           35  29
+
+	Pearson's Chi-squared test
+
+data:  fls1857
+X-squared = 5.1836, df = 3, p-value = 0.1588
+

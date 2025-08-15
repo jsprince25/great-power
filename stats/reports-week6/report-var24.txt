@@ -1,0 +1,478 @@
+v24 and v14 cs
+                                 v14 Communists in U.S.
+v24 Save Taxes, Cut Air Force Now Most Important Next Most Important Talked About
+                              Yes             16                  18           31
+                              No             530                 620          947
+                                 v14 Communists in U.S.
+v24 Save Taxes, Cut Air Force Now Not Talked About
+                              Yes              208
+                              No              2187
+
+	Pearson's Chi-squared test
+
+data:  fcs2414
+X-squared = 65.143, df = 3, p-value = 4.675e-14
+
+v24 and v14 ls
+                                 v14 Communists in U.S.
+v24 Save Taxes, Cut Air Force Now Most Important Next Most Important Talked About
+                              Yes              3                   2           13
+                              No             200                 221          554
+                                 v14 Communists in U.S.
+v24 Save Taxes, Cut Air Force Now Not Talked About
+                              Yes               13
+                              No               456
+
+	Pearson's Chi-squared test
+
+data:  fls2414
+X-squared = 3.0526, df = 3, p-value = 0.3836
+
+v24 and v15 cs
+                                 v15 Comm Threat Freedom U.S.
+v24 Save Taxes, Cut Air Force Now Most Important Next Most Important Talked About
+                              Yes             29                  22           20
+                              No             593                 441          403
+                                 v15 Comm Threat Freedom U.S.
+v24 Save Taxes, Cut Air Force Now Not Talked About
+                              Yes              202
+                              No              2840
+
+	Pearson's Chi-squared test
+
+data:  fcs2414
+X-squared = 65.143, df = 3, p-value = 4.675e-14
+
+v24 and v15 ls
+                                 v15 Comm Threat Freedom U.S
+v24 Save Taxes, Cut Air Force Now Most Important Next Most Important Talked About
+                              Yes              6                   7            5
+                              No             353                 213          233
+                                 v15 Comm Threat Freedom U.S
+v24 Save Taxes, Cut Air Force Now Not Talked About
+                              Yes               13
+                              No               631
+
+	Pearson's Chi-squared test
+
+data:  fls2415
+X-squared = 1.5746, df = 3, p-value = 0.6652
+
+v24 and v35 cs
+                                 v35 Don't Censor Socialist Speaker
+v24 Save Taxes, Cut Air Force Now  Yes   No
+                              Yes  154   93
+                              No  2617 1342
+
+	Pearson's Chi-squared test with Yates' continuity correction
+
+data:  fcs2435
+X-squared = 1.2957, df = 1, p-value = 0.255
+
+v24 and v35 ls
+                                 v35 Don't Censor Socialist Speaker
+v24 Save Taxes, Cut Air Force Now  Yes   No
+                              Yes   27    3
+                              No  1216  201
+
+	Pearson's Chi-squared test with Yates' continuity correction
+
+data:  fls2435
+X-squared = 0.14955, df = 1, p-value = 0.699
+
+v24 and v36 cs
+                                 v36 Don't Censor Socialist Teacher
+v24 Save Taxes, Cut Air Force Now  Yes   No
+                              Yes  110  128
+                              No  1447 2393
+
+	Pearson's Chi-squared test with Yates' continuity correction
+
+data:  fcs2436
+X-squared = 6.5617, df = 1, p-value = 0.01042
+
+v24 and v36 ls
+                                 v36 Don't Censor Socialist Teacher
+v24 Save Taxes, Cut Air Force Now Yes  No
+                              Yes  15  15
+                              No  686 678
+
+	Pearson's Chi-squared test with Yates' continuity correction
+
+data:  fls2436
+X-squared = 3.7015e-30, df = 1, p-value = 1
+
+v24 and v37 cs
+                                 v37 Censor Socialist Book
+v24 Save Taxes, Cut Air Force Now  Yes   No
+                              Yes  110  133
+                              No  1509 2354
+
+	Pearson's Chi-squared test with Yates' continuity correction
+
+data:  fcs2437
+X-squared = 3.4299, df = 1, p-value = 0.06403
+
+v24 and v37 ls
+                                 v37 Censor Socialist Book
+v24 Save Taxes, Cut Air Force Now  Yes   No
+                              Yes    5   25
+                              No   262 1143
+
+	Pearson's Chi-squared test with Yates' continuity correction
+
+data:  fls2437
+X-squared = 0.0015072, df = 1, p-value = 0.969
+
+v24 and v42 cs
+                                 v42 American Comm Danger U.S. Rn
+v24 Save Taxes, Cut Air Force Now Very Great Great Some Hardly Any   No
+                              Yes         30    47  101         37   16
+                              No         884  1060 1648        407  100
+
+	Pearson's Chi-squared test
+
+data:  fcs2442
+X-squared = 35.232, df = 4, p-value = 4.162e-07
+
+v24 and v42 ls
+                                 v42 American Comm Danger U.S. Rn
+v24 Save Taxes, Cut Air Force Now Very Great Great Some Hardly Any  No
+                              Yes          2     6   11         10   2
+                              No         226   319  648        207  32
+
+	Pearson's Chi-squared test
+
+data:  fls2442
+X-squared = 11.26, df = 4, p-value = 0.02379
+
+v24 and v43 cs
+                                 v43 Why Comm Dangerous?
+v24 Save Taxes, Cut Air Force Now Espionage Sabotage Subversion and Conversion
+                              Yes        21        9                        46
+                              No        372      336                      1296
+                                 v43 Why Comm Dangerous?
+v24 Save Taxes, Cut Air Force Now Dangerous, Other Not bc FBI Not bc McCathy Not, Other
+                              Yes               63          6              0         36
+                              No              1063         97             17        348
+
+	Pearson's Chi-squared test
+
+data:  fcs2443
+X-squared = 29.146, df = 6, p-value = 5.708e-05
+
+v24 and v43 ls
+                                 v43 Why Comm Dangerous?
+v24 Save Taxes, Cut Air Force Now Espionage Sabotage Subversion and Conversion
+                              Yes         0        0                         8
+                              No         98       80                       538
+                                 v43 Why Comm Dangerous?
+v24 Save Taxes, Cut Air Force Now Dangerous, Other Not bc FBI Not bc McCathy Not, Other
+                              Yes                9          3              0          9
+                              No               405         71              6        144
+
+	Pearson's Chi-squared test
+
+data:  fls2443
+X-squared = 16.927, df = 6, p-value = 0.009554
+
+v24 and v44 cs
+                                 v44 Can Cmnst be loyal Amrcn
+v24 Save Taxes, Cut Air Force Now  Yes Qualified   No
+                              Yes   31         5  204
+                              No   208        78 3855
+
+	Pearson's Chi-squared test
+
+data:  fcs2444
+X-squared = 27.563, df = 2, p-value = 1.035e-06
+
+v24 and v44 ls
+                                 v44 Can Cmnst be loyal Amrcn
+v24 Save Taxes, Cut Air Force Now  Yes Qualified   No
+                              Yes    3         0   28
+                              No    63        49 1302
+
+	Pearson's Chi-squared test
+
+data:  fls2444
+X-squared = 2.8955, df = 2, p-value = 0.2351
+
+skipping v45 out of confusion with the table, multiple rounds of questions, etc
+
+v24 and v46 cs
+                                 v46 What do Comm Believe
+v24 Save Taxes, Cut Air Force Now Russia/World Dom Loss Individual Rights
+                              Yes               25                     12
+                              No               570                    398
+                                 v46 What do Comm Believe
+v24 Save Taxes, Cut Air Force Now Gov Ownership Property Dictatorship Egalitarian Anti-Religon
+                              Yes                     35           29          34           39
+                              No                     815          809         685         1087
+                                 v46 What do Comm Believe
+v24 Save Taxes, Cut Air Force Now Immoral/Amoral Slogan
+                              Yes             14      8
+                              No             201    298
+
+	Pearson's Chi-squared test
+
+data:  fcs2446
+X-squared = 8.9192, df = 7, p-value = 0.2585
+
+v24 and v46 ls
+                                 v46 What do Comm Believe
+v24 Save Taxes, Cut Air Force Now Russia/World Dom Loss Individual Rights
+                              Yes                6                      5
+                              No               190                    171
+                                 v46 What do Comm Believe
+v24 Save Taxes, Cut Air Force Now Gov Ownership Property Dictatorship Egalitarian Anti-Religon
+                              Yes                     11            7           7            6
+                              No                     357          513         290          371
+                                 v46 What do Comm Believe
+v24 Save Taxes, Cut Air Force Now Immoral/Amoral Slogan
+                              Yes              4      5
+                              No              82    236
+
+	Pearson's Chi-squared test
+
+data:  fls2446
+X-squared = 6.7415, df = 7, p-value = 0.4563
+
+v24 and v47 cs
+                                 v47 Have you known a Comm
+v24 Save Taxes, Cut Air Force Now  Yes   No
+                              Yes   18  258
+                              No   763 3545
+
+	Pearson's Chi-squared test with Yates' continuity correction
+
+data:  fcs2447
+X-squared = 22.191, df = 1, p-value = 2.468e-06
+
+v24 and v47 ls
+                                 v47 Have you known a Comm
+v24 Save Taxes, Cut Air Force Now Yes  No
+                              Yes  14  17
+                              No  633 804
+
+	Pearson's Chi-squared test with Yates' continuity correction
+
+data:  fls2447
+X-squared = 1.8994e-28, df = 1, p-value = 1
+
+v24 and v48 cs
+                                 v48 How could you tell/know?
+v24 Save Taxes, Cut Air Force Now It was admitted What was Said/Read Groups/Organizations
+                              Yes               2                 10                    1
+                              No              150                487                   50
+                                 v48 How could you tell/know?
+v24 Save Taxes, Cut Air Force Now Deviant/Strange Behavior
+                              Yes                        4
+                              No                       112
+
+	Pearson's Chi-squared test
+
+data:  fcs2448
+X-squared = 1.5145, df = 3, p-value = 0.6789
+
+v24 and v48 ls
+                                 v48 How could you tell/know?
+v24 Save Taxes, Cut Air Force Now It was admitted What was Said/Read Groups/Organizations
+                              Yes               4                  6                    1
+                              No              163                388                   56
+                                 v48 How could you tell/know?
+v24 Save Taxes, Cut Air Force Now Deviant/Strange Behavior
+                              Yes                        3
+                              No                        77
+
+	Pearson's Chi-squared test
+
+data:  fls2448
+X-squared = 1.853, df = 3, p-value = 0.6035
+
+v24 and v49 cs
+                                 v49 Your city asked you to report Comm to FBI
+v24 Save Taxes, Cut Air Force Now  Yes   No
+                              Yes   19  229
+                              No   378 3596
+
+	Pearson's Chi-squared test with Yates' continuity correction
+
+data:  fcs2449
+X-squared = 0.73371, df = 1, p-value = 0.3917
+
+v24 and v49 ls
+                                 v49 Your city asked you to report Comm to FBI
+v24 Save Taxes, Cut Air Force Now Yes  No
+                              Yes  14  17
+                              No  633 804
+
+	Pearson's Chi-squared test with Yates' continuity correction
+
+data:  fls2449
+X-squared = 1.8994e-28, df = 1, p-value = 1
+
+v24 and v50 cs
+                                 v50 Heard of other cities citizens asked to report Comm to FBI
+v24 Save Taxes, Cut Air Force Now  Yes   No
+                              Yes   19   66
+                              No   378 1384
+
+	Pearson's Chi-squared test with Yates' continuity correction
+
+data:  fcs2450
+X-squared = 0.0038605, df = 1, p-value = 0.9505
+
+v24 and v50 ls
+                                 v50 Heard of other cities citizens asked to report Comm to FBI
+v24 Save Taxes, Cut Air Force Now Yes  No
+                              Yes   7  15
+                              No  368 652
+
+	Pearson's Chi-squared test with Yates' continuity correction
+
+data:  fls2450
+X-squared = 0.035129, df = 1, p-value = 0.8513
+
+v24 and v51 cs
+                                 v51 Discussed v50 idea with anyone
+v24 Save Taxes, Cut Air Force Now  Yes   No
+                              Yes  258    4
+                              No  3935  145
+
+	Pearson's Chi-squared test with Yates' continuity correction
+
+data:  fcs2451
+X-squared = 2.472, df = 1, p-value = 0.1159
+
+v24 and v51 ls
+                                 v51 Discussed v50 idea with anyone
+v24 Save Taxes, Cut Air Force Now  Yes   No
+                              Yes   24    5
+                              No  1073  228
+
+	Pearson's Chi-squared test with Yates' continuity correction
+
+data:  fls2451
+X-squared = 2.8053e-28, df = 1, p-value = 1
+
+v24 and v52 cs
+                                 v52 Do you think reporting neighbors a good idea
+v24 Save Taxes, Cut Air Force Now  Yes   No
+                              Yes  184   57
+                              No  3199  842
+
+	Pearson's Chi-squared test with Yates' continuity correction
+
+data:  fcs2452
+X-squared = 0.92348, df = 1, p-value = 0.3366
+
+v24 and v52 ls
+                                 v52 Do you think reporting neighbors a good idea
+v24 Save Taxes, Cut Air Force Now Yes  No
+                              Yes  17  14
+                              No  928 461
+
+	Pearson's Chi-squared test with Yates' continuity correction
+
+data:  fls2452
+X-squared = 1.4516, df = 1, p-value = 0.2283
+
+v24 and v53 cs
+                                 v53 Is v52 dangerous, how?
+v24 Save Taxes, Cut Air Force Now No Dangers Fear/Reprisal Hurt Innocent/Wrongly Accused
+                              Yes         74            48                             9
+                              No        1454           800                           448
+                                 v53 Is v52 dangerous, how?
+v24 Save Taxes, Cut Air Force Now Malicious Reporting Atmosphere Suspicion/Mistrust
+                              Yes                   3                             7
+                              No                  110                           126
+                                 v53 Is v52 dangerous, how?
+v24 Save Taxes, Cut Air Force Now Inefficent/Wasteful Un-American/Undemocratic Other Danger
+                              Yes                   0                        2           21
+                              No                   27                       18          169
+
+	Pearson's Chi-squared test
+
+data:  fcs2453
+X-squared = 28.422, df = 7, p-value = 0.0001844
+
+v24 and v53 ls
+                                 v53 Is v52 dangerous, how?
+v24 Save Taxes, Cut Air Force Now No Dangers Fear/Reprisal Hurt Innocent/Wrongly Accused
+                              Yes          8             0                             6
+                              No         404            71                           247
+                                 v53 Is v52 dangerous, how?
+v24 Save Taxes, Cut Air Force Now Malicious Reporting Atmosphere Suspicion/Mistrust
+                              Yes                   2                             0
+                              No                  127                            45
+                                 v53 Is v52 dangerous, how?
+v24 Save Taxes, Cut Air Force Now Inefficent/Wasteful Un-American/Undemocratic Other Danger
+                              Yes                   0                        1            1
+                              No                   19                       44           58
+
+	Pearson's Chi-squared test
+
+data:  fls2453
+X-squared = 3.1634, df = 7, p-value = 0.8695
+
+v24 and v55 cs
+                                 v55 How is reporting aquaintances dangerous?
+v24 Save Taxes, Cut Air Force Now Fear/Reprisal Hurt Innocent/Wrongly Accused
+                              Yes            12                            22
+                              No             39                           317
+                                 v55 How is reporting aquaintances dangerous?
+v24 Save Taxes, Cut Air Force Now Malicious Reporting Atmosphere Suspicion/Mistrust
+                              Yes                   4                            13
+                              No                  168                           222
+                                 v55 How is reporting aquaintances dangerous?
+v24 Save Taxes, Cut Air Force Now Inefficent/Wasteful Un-American/Undemocratic Other Danger
+                              Yes                   2                        7            8
+                              No                   80                      137          100
+
+	Pearson's Chi-squared test
+
+data:  fcs2455
+X-squared = 34.626, df = 6, p-value = 5.092e-06
+
+v24 and v55 ls
+                                 v55 How is reporting aquaintances dangerous?
+v24 Save Taxes, Cut Air Force Now Fear/Reprisal Hurt Innocent/Wrongly Accused
+                              Yes             0                             4
+                              No              6                           150
+                                 v55 How is reporting aquaintances dangerous?
+v24 Save Taxes, Cut Air Force Now Malicious Reporting Atmosphere Suspicion/Mistrust
+                              Yes                   5                             6
+                              No                  157                           124
+                                 v55 How is reporting aquaintances dangerous?
+v24 Save Taxes, Cut Air Force Now Inefficent/Wasteful Un-American/Undemocratic Other Danger
+                              Yes                   3                        3            1
+                              No                   65                      130           26
+
+	Pearson's Chi-squared test
+
+data:  fls2455
+X-squared = 1.9304, df = 6, p-value = 0.926
+
+v24 and v57 cs
+                                 v57 To catch Comm, Can gov listen to phone calls?
+v24 Save Taxes, Cut Air Force Now  Yes   No
+                              Yes  146  112
+                              No  2896 1127
+
+	Pearson's Chi-squared test with Yates' continuity correction
+
+data:  fcs2457
+X-squared = 27.204, df = 1, p-value = 1.83e-07
+
+v24 and v57 ls
+                                 v57 To catch Comm, Can gov listen to phone calls?
+v24 Save Taxes, Cut Air Force Now Yes  No
+                              Yes  18  12
+                              No  895 462
+
+	Pearson's Chi-squared test with Yates' continuity correction
+
+data:  fls2457
+X-squared = 0.23576, df = 1, p-value = 0.6273
+

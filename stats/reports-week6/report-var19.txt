@@ -1,0 +1,494 @@
+v19 and v14 cs
+                                v14 Communists in U.S.
+v19 Comm Stopped in Asia w/o War Most Important Next Most Important Talked About Not Talked About
+               Very Likely                   48                  53           91              188
+               Rather Likely                106                 133          210              456
+               Rather Unlikely              157                 192          317              606
+               Not Likely At All            111                 131          200              386
+
+	Pearson's Chi-squared test
+
+data:  fcs1914
+X-squared = 3.9096, df = 9, p-value = 0.9173
+
+v19 and v14 ls
+                                v14 Communists in U.S.
+v19 Comm Stopped in Asia w/o War Most Important Next Most Important Talked About Not Talked About
+               Very Likely                   11                  13           55               42
+               Rather Likely                 56                  64          148              116
+               Rather Unlikely               75                  81          212              170
+               Not Likely At All             34                  39          105               86
+
+	Pearson's Chi-squared test
+
+data:  fls1914
+X-squared = 6.2288, df = 9, p-value = 0.7168
+
+v19 and v15 cs
+                                v15 Comm Threat Freedom U.S.
+v19 Comm Stopped in Asia w/o War Most Important Next Most Important Talked About Not Talked About
+               Very Likely                   55                  43           43              239
+               Rather Likely                150                  93           79              581
+               Rather Unlikely              197                 131          137              806
+               Not Likely At All            126                  92           82              527
+
+	Pearson's Chi-squared test
+
+data:  fcs1914
+X-squared = 3.9096, df = 9, p-value = 0.9173
+
+v19 and v15 ls
+                                v15 Comm Threat Freedom U.S
+v19 Comm Stopped in Asia w/o War Most Important Next Most Important Talked About Not Talked About
+               Very Likely                   33                  19           23               47
+               Rather Likely                 99                  56           56              172
+               Rather Unlikely              129                  86           80              244
+               Not Likely At All             61                  41           54              106
+
+	Pearson's Chi-squared test
+
+data:  fls1915
+X-squared = 7.7319, df = 9, p-value = 0.5614
+
+v19 and v35 cs
+                                v35 Don't Censor Socialist Speaker
+v19 Comm Stopped in Asia w/o War Yes  No
+               Very Likely       245 120
+               Rather Likely     580 287
+               Rather Unlikely   824 393
+               Not Likely At All 522 269
+
+	Pearson's Chi-squared test
+
+data:  fcs1935
+X-squared = 0.64535, df = 3, p-value = 0.886
+
+v19 and v35 ls
+                                v35 Don't Censor Socialist Speaker
+v19 Comm Stopped in Asia w/o War Yes  No
+               Very Likely       108  13
+               Rather Likely     331  52
+               Rather Unlikely   457  73
+               Not Likely At All 233  30
+
+	Pearson's Chi-squared test
+
+data:  fls1935
+X-squared = 1.5302, df = 3, p-value = 0.6753
+
+v19 and v36 cs
+                                v36 Don't Censor Socialist Teacher
+v19 Comm Stopped in Asia w/o War Yes  No
+               Very Likely       151 208
+               Rather Likely     332 510
+               Rather Unlikely   466 709
+               Not Likely At All 278 490
+
+	Pearson's Chi-squared test
+
+data:  fcs1936
+X-squared = 4.2272, df = 3, p-value = 0.238
+
+v19 and v36 ls
+                                v36 Don't Censor Socialist Teacher
+v19 Comm Stopped in Asia w/o War Yes  No
+               Very Likely        65  51
+               Rather Likely     184 178
+               Rather Unlikely   271 248
+               Not Likely At All 131 125
+
+	Pearson's Chi-squared test
+
+data:  fls1936
+X-squared = 1.0344, df = 3, p-value = 0.7929
+
+v19 and v37 cs
+                                v37 Censor Socialist Book
+v19 Comm Stopped in Asia w/o War Yes  No
+               Very Likely       137 224
+               Rather Likely     302 547
+               Rather Unlikely   415 760
+               Not Likely At All 327 461
+
+	Pearson's Chi-squared test
+
+data:  fcs1937
+X-squared = 9.0572, df = 3, p-value = 0.02854
+
+v19 and v37 ls
+                                v37 Censor Socialist Book
+v19 Comm Stopped in Asia w/o War Yes  No
+               Very Likely        17 102
+               Rather Likely      64 313
+               Rather Unlikely    94 438
+               Not Likely At All  47 213
+
+	Pearson's Chi-squared test
+
+data:  fls1937
+X-squared = 0.94281, df = 3, p-value = 0.8151
+
+v19 and v42 cs
+                                v42 American Comm Danger U.S. Rn
+v19 Comm Stopped in Asia w/o War Very Great Great Some Hardly Any  No
+               Very Likely               85    86  141         42  14
+               Rather Likely            152   197  400        101  30
+               Rather Unlikely          292   328  488        112  21
+               Not Likely At All        210   212  287         73  27
+
+	Pearson's Chi-squared test
+
+data:  fcs1942
+X-squared = 44.494, df = 12, p-value = 1.258e-05
+
+v19 and v42 ls
+                                v42 American Comm Danger U.S. Rn
+v19 Comm Stopped in Asia w/o War Very Great Great Some Hardly Any  No
+               Very Likely               17    25   55         18   6
+               Rather Likely             43    83  190         62   9
+               Rather Unlikely           96   124  232         74  12
+               Not Likely At All         52    53  113         41   4
+
+	Pearson's Chi-squared test
+
+data:  fls1942
+X-squared = 17.676, df = 12, p-value = 0.1259
+
+v19 and v43 cs
+                                v43 Why Comm Dangerous?
+v19 Comm Stopped in Asia w/o War Espionage Sabotage Subversion and Conversion Dangerous, Other Not bc FBI Not bc McCathy Not, Other
+               Very Likely              35       28                       125               86         11              3         29
+               Rather Likely            82       72                       278              217         26              4         90
+               Rather Unlikely         114      106                       410              328         26              5         95
+               Not Likely At All        85       73                       277              213         19              3         73
+
+	Pearson's Chi-squared test
+
+data:  fcs1943
+X-squared = 10.314, df = 18, p-value = 0.9212
+
+v19 and v43 ls
+                                v43 Why Comm Dangerous?
+v19 Comm Stopped in Asia w/o War Espionage Sabotage Subversion and Conversion Dangerous, Other Not bc FBI Not bc McCathy Not, Other
+               Very Likely               8       10                        39               31          7              0         17
+               Rather Likely            27       28                       151              104         24              0         40
+               Rather Unlikely          37       21                       196              158         28              4         53
+               Not Likely At All        20       15                       105               74         10              0         32
+
+	Pearson's Chi-squared test
+
+data:  fls1943
+X-squared = 17.813, df = 18, p-value = 0.468
+
+v19 and v44 cs
+                                v44 Can Cmnst be loyal Amrcn
+v19 Comm Stopped in Asia w/o War  Yes Qualified   No
+               Very Likely         25        11  332
+               Rather Likely       46        20  814
+               Rather Unlikely     76        20 1152
+               Not Likely At All   32        20  751
+
+	Pearson's Chi-squared test
+
+data:  fcs1944
+X-squared = 9.1563, df = 6, p-value = 0.165
+
+v19 and v44 ls
+                                v44 Can Cmnst be loyal Amrcn
+v19 Comm Stopped in Asia w/o War Yes Qualified  No
+               Very Likely         5         7 109
+               Rather Likely      19        18 346
+               Rather Unlikely    24        16 492
+               Not Likely At All  11         7 240
+
+	Pearson's Chi-squared test
+
+data:  fls1944
+X-squared = 4.2472, df = 6, p-value = 0.6433
+
+skipping v45 out of confusion with the table, multiple rounds of questions, etc
+
+v19 and v46 cs
+                                v46 What do Comm Believe
+v19 Comm Stopped in Asia w/o War Russia/World Dom Loss Individual Rights Gov Ownership Property Dictatorship Egalitarian Anti-Religon Immoral/Amoral Slogan
+               Very Likely                     51                     38                     84           70          63           81             16     27
+               Rather Likely                  115                     77                    182          174         153          244             44     59
+               Rather Unlikely                185                    127                    278          265         228          334             61    105
+               Not Likely At All              125                     98                    197          195         158          223             52     54
+
+	Pearson's Chi-squared test
+
+data:  fcs1946
+X-squared = 12.437, df = 21, p-value = 0.9271
+
+v19 and v46 ls
+                                v46 What do Comm Believe
+v19 Comm Stopped in Asia w/o War Russia/World Dom Loss Individual Rights Gov Ownership Property Dictatorship Egalitarian Anti-Religon Immoral/Amoral Slogan
+               Very Likely                     15                      9                     28           41          23           29             12     20
+               Rather Likely                   63                     40                     99          141          79          101             34     67
+               Rather Unlikely                 68                     68                    134          194         111          138             29     94
+               Not Likely At All               35                     43                     79          103          58           67             10     33
+
+	Pearson's Chi-squared test
+
+data:  fls1946
+X-squared = 23.477, df = 21, p-value = 0.3191
+
+v19 and v47 cs
+                                v47 Have you known a Comm
+v19 Comm Stopped in Asia w/o War  Yes   No
+               Very Likely         72  308
+               Rather Likely      160  752
+               Rather Unlikely    238 1040
+               Not Likely At All  202  629
+
+	Pearson's Chi-squared test
+
+data:  fcs1947
+X-squared = 14.867, df = 3, p-value = 0.001934
+
+v19 and v47 ls
+                                v47 Have you known a Comm
+v19 Comm Stopped in Asia w/o War Yes  No
+               Very Likely        53  69
+               Rather Likely     169 218
+               Rather Unlikely   243 296
+               Not Likely At All 132 131
+
+	Pearson's Chi-squared test
+
+data:  fls1947
+X-squared = 3.1008, df = 3, p-value = 0.3763
+
+v19 and v48 cs
+                                v48 How could you tell/know?
+v19 Comm Stopped in Asia w/o War It was admitted What was Said/Read Groups/Organizations Deviant/Strange Behavior
+               Very Likely                    17                 48                    3                        8
+               Rather Likely                  23                109                   11                       20
+               Rather Unlikely                44                152                   18                       37
+               Not Likely At All              47                129                   12                       27
+
+	Pearson's Chi-squared test
+
+data:  fcs1948
+X-squared = 6.8357, df = 9, p-value = 0.6542
+
+v19 and v48 ls
+                                v48 How could you tell/know?
+v19 Comm Stopped in Asia w/o War It was admitted What was Said/Read Groups/Organizations Deviant/Strange Behavior
+               Very Likely                    15                 33                    9                        9
+               Rather Likely                  35                107                   19                       21
+               Rather Unlikely                64                146                   14                       26
+               Not Likely At All              41                 78                   14                       14
+
+	Pearson's Chi-squared test
+
+data:  fls1948
+X-squared = 10.295, df = 9, p-value = 0.3271
+
+v19 and v49 cs
+                                v49 Your city asked you to report Comm to FBI
+v19 Comm Stopped in Asia w/o War  Yes   No
+               Very Likely         44  312
+               Rather Likely       77  772
+               Rather Unlikely    123 1065
+               Not Likely At All   95  690
+
+	Pearson's Chi-squared test
+
+data:  fcs1949
+X-squared = 5.1626, df = 3, p-value = 0.1603
+
+v19 and v49 ls
+                                v49 Your city asked you to report Comm to FBI
+v19 Comm Stopped in Asia w/o War Yes  No
+               Very Likely        53  69
+               Rather Likely     169 218
+               Rather Unlikely   243 296
+               Not Likely At All 132 131
+
+	Pearson's Chi-squared test
+
+data:  fls1949
+X-squared = 3.1008, df = 3, p-value = 0.3763
+
+v19 and v50 cs
+                                v50 Heard of other cities citizens asked to report Comm to FBI
+v19 Comm Stopped in Asia w/o War Yes  No
+               Very Likely        44 130
+               Rather Likely      77 318
+               Rather Unlikely   123 421
+               Not Likely At All  95 292
+
+	Pearson's Chi-squared test
+
+data:  fcs1950
+X-squared = 3.7367, df = 3, p-value = 0.2913
+
+v19 and v50 ls
+                                v50 Heard of other cities citizens asked to report Comm to FBI
+v19 Comm Stopped in Asia w/o War Yes  No
+               Very Likely        40  52
+               Rather Likely     108 180
+               Rather Unlikely   120 254
+               Not Likely At All  74 115
+
+	Pearson's Chi-squared test
+
+data:  fls1950
+X-squared = 5.7696, df = 3, p-value = 0.1234
+
+v19 and v51 cs
+                                v51 Discussed v50 idea with anyone
+v19 Comm Stopped in Asia w/o War  Yes   No
+               Very Likely        336   19
+               Rather Likely      835   25
+               Rather Unlikely   1157   42
+               Not Likely At All  737   49
+
+	Pearson's Chi-squared test
+
+data:  fcs1951
+X-squared = 14.212, df = 3, p-value = 0.002631
+
+v19 and v51 ls
+                                v51 Discussed v50 idea with anyone
+v19 Comm Stopped in Asia w/o War Yes  No
+               Very Likely        82  27
+               Rather Likely     280  76
+               Rather Unlikely   420  70
+               Not Likely At All 191  42
+
+	Pearson's Chi-squared test
+
+data:  fls1951
+X-squared = 10.617, df = 3, p-value = 0.01399
+
+v19 and v52 cs
+                                v52 Do you think reporting neighbors a good idea
+v19 Comm Stopped in Asia w/o War Yes  No
+               Very Likely       276  87
+               Rather Likely     675 194
+               Rather Unlikely   922 289
+               Not Likely At All 604 172
+
+	Pearson's Chi-squared test
+
+data:  fcs1952
+X-squared = 1.2257, df = 3, p-value = 0.7469
+
+v19 and v52 ls
+                                v52 Do you think reporting neighbors a good idea
+v19 Comm Stopped in Asia w/o War Yes  No
+               Very Likely        75  42
+               Rather Likely     252 123
+               Rather Unlikely   346 173
+               Not Likely At All 162  99
+
+	Pearson's Chi-squared test
+
+data:  fls1952
+X-squared = 2.2457, df = 3, p-value = 0.523
+
+v19 and v53 cs
+                                v53 Is v52 dangerous, how?
+v19 Comm Stopped in Asia w/o War No Dangers Fear/Reprisal Hurt Innocent/Wrongly Accused Malicious Reporting Atmosphere Suspicion/Mistrust Inefficent/Wasteful
+               Very Likely              134            63                            30                  12                            14                   1
+               Rather Likely            321           163                            96                  24                            24                   7
+               Rather Unlikely          417           217                           161                  31                            45                   8
+               Not Likely At All        282           158                            74                  29                            18                   7
+                                v53 Is v52 dangerous, how?
+v19 Comm Stopped in Asia w/o War Un-American/Undemocratic Other Danger
+               Very Likely                              1           23
+               Rather Likely                            5           33
+               Rather Unlikely                          4           42
+               Not Likely At All                        9           34
+
+	Pearson's Chi-squared test
+
+data:  fcs1953
+X-squared = 32.254, df = 21, p-value = 0.05517
+
+v19 and v53 ls
+                                v53 Is v52 dangerous, how?
+v19 Comm Stopped in Asia w/o War No Dangers Fear/Reprisal Hurt Innocent/Wrongly Accused Malicious Reporting Atmosphere Suspicion/Mistrust Inefficent/Wasteful
+               Very Likely               38             6                            18                   8                             4                   2
+               Rather Likely            106            13                            75                  36                            16                   5
+               Rather Unlikely          147            22                            87                  52                            13                   7
+               Not Likely At All         73            14                            46                  21                            11                   1
+                                v53 Is v52 dangerous, how?
+v19 Comm Stopped in Asia w/o War Un-American/Undemocratic Other Danger
+               Very Likely                              2            3
+               Rather Likely                           15           16
+               Rather Unlikely                         18           25
+               Not Likely At All                        8            9
+
+	Pearson's Chi-squared test
+
+data:  fls1953
+X-squared = 12.217, df = 21, p-value = 0.9336
+
+v19 and v55 cs
+                                v55 How is reporting aquaintances dangerous?
+v19 Comm Stopped in Asia w/o War Fear/Reprisal Hurt Innocent/Wrongly Accused Malicious Reporting Atmosphere Suspicion/Mistrust Inefficent/Wasteful
+               Very Likely                   4                            30                  21                            20                   7
+               Rather Likely                 7                            83                  31                            48                  26
+               Rather Unlikely              14                           105                  66                            84                  18
+               Not Likely At All             7                            61                  31                            54                  20
+                                v55 How is reporting aquaintances dangerous?
+v19 Comm Stopped in Asia w/o War Un-American/Undemocratic Other Danger
+               Very Likely                             26            7
+               Rather Likely                           30           27
+               Rather Unlikely                         46           27
+               Not Likely At All                       30           19
+
+	Pearson's Chi-squared test
+
+data:  fcs1955
+X-squared = 26.356, df = 18, p-value = 0.09189
+
+v19 and v55 ls
+                                v55 How is reporting aquaintances dangerous?
+v19 Comm Stopped in Asia w/o War Fear/Reprisal Hurt Innocent/Wrongly Accused Malicious Reporting Atmosphere Suspicion/Mistrust Inefficent/Wasteful
+               Very Likely                   0                            12                  12                             7                   9
+               Rather Likely                 1                            46                  42                            43                  16
+               Rather Unlikely               4                            53                  60                            46                  21
+               Not Likely At All             2                            31                  35                            30                  16
+                                v55 How is reporting aquaintances dangerous?
+v19 Comm Stopped in Asia w/o War Un-American/Undemocratic Other Danger
+               Very Likely                             18            0
+               Rather Likely                           31            7
+               Rather Unlikely                         49           11
+               Not Likely At All                       29            5
+
+	Pearson's Chi-squared test
+
+data:  fls1955
+X-squared = 15.898, df = 18, p-value = 0.5997
+
+v19 and v57 cs
+                                v57 To catch Comm, Can gov listen to phone calls?
+v19 Comm Stopped in Asia w/o War Yes  No
+               Very Likely       246 115
+               Rather Likely     607 262
+               Rather Unlikely   856 358
+               Not Likely At All 562 223
+
+	Pearson's Chi-squared test
+
+data:  fcs1957
+X-squared = 1.541, df = 3, p-value = 0.6728
+
+v19 and v57 ls
+                                v57 To catch Comm, Can gov listen to phone calls?
+v19 Comm Stopped in Asia w/o War Yes  No
+               Very Likely        74  42
+               Rather Likely     237 124
+               Rather Unlikely   338 170
+               Not Likely At All 156 101
+
+	Pearson's Chi-squared test
+
+data:  fls1957
+X-squared = 2.731, df = 3, p-value = 0.435
+

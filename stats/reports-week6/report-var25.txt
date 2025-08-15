@@ -1,0 +1,502 @@
+v25 and v14 cs
+                                         v14 Communists in U.S.
+v25 Save Taxes, Cut Down ABomb Production Most Important Next Most Important Talked About
+                                      Yes             55                  57          113
+                                      No             474                 560          819
+                                         v14 Communists in U.S.
+v25 Save Taxes, Cut Down ABomb Production Not Talked About
+                                      Yes              359
+                                      No              1907
+
+	Pearson's Chi-squared test
+
+data:  fcs2514
+X-squared = 26.2, df = 3, p-value = 8.659e-06
+
+v25 and v14 ls
+                                         v14 Communists in U.S.
+v25 Save Taxes, Cut Down ABomb Production Most Important Next Most Important Talked About
+                                      Yes             15                   9           39
+                                      No             180                 206          508
+                                         v14 Communists in U.S.
+v25 Save Taxes, Cut Down ABomb Production Not Talked About
+                                      Yes               23
+                                      No               421
+
+	Pearson's Chi-squared test
+
+data:  fls2514
+X-squared = 3.8803, df = 3, p-value = 0.2747
+
+v25 and v15 cs
+                                         v15 Comm Threat Freedom U.S.
+v25 Save Taxes, Cut Down ABomb Production Most Important Next Most Important Talked About
+                                      Yes             71                  39           48
+                                      No             524                 401          353
+                                         v15 Comm Threat Freedom U.S.
+v25 Save Taxes, Cut Down ABomb Production Not Talked About
+                                      Yes              425
+                                      No              2476
+
+	Pearson's Chi-squared test
+
+data:  fcs2514
+X-squared = 26.2, df = 3, p-value = 8.659e-06
+
+v25 and v15 ls
+                                         v15 Comm Threat Freedom U.S
+v25 Save Taxes, Cut Down ABomb Production Most Important Next Most Important Talked About
+                                      Yes             25                  15           14
+                                      No             322                 201          211
+                                         v15 Comm Threat Freedom U.S
+v25 Save Taxes, Cut Down ABomb Production Not Talked About
+                                      Yes               32
+                                      No               580
+
+	Pearson's Chi-squared test
+
+data:  fls2515
+X-squared = 1.8086, df = 3, p-value = 0.6131
+
+v25 and v35 cs
+                                         v35 Don't Censor Socialist Speaker
+v25 Save Taxes, Cut Down ABomb Production  Yes   No
+                                      Yes  341  197
+                                      No  2323 1185
+
+	Pearson's Chi-squared test with Yates' continuity correction
+
+data:  fcs2535
+X-squared = 1.5458, df = 1, p-value = 0.2138
+
+v25 and v35 ls
+                                         v35 Don't Censor Socialist Speaker
+v25 Save Taxes, Cut Down ABomb Production  Yes   No
+                                      Yes   77    9
+                                      No  1114  186
+
+	Pearson's Chi-squared test with Yates' continuity correction
+
+data:  fls2535
+X-squared = 0.69295, df = 1, p-value = 0.4052
+
+v25 and v36 cs
+                                         v36 Don't Censor Socialist Teacher
+v25 Save Taxes, Cut Down ABomb Production  Yes   No
+                                      Yes  189  333
+                                      No  1318 2085
+
+	Pearson's Chi-squared test with Yates' continuity correction
+
+data:  fcs2536
+X-squared = 1.1142, df = 1, p-value = 0.2912
+
+v25 and v36 ls
+                                         v36 Don't Censor Socialist Teacher
+v25 Save Taxes, Cut Down ABomb Production Yes  No
+                                      Yes  37  43
+                                      No  644 618
+
+	Pearson's Chi-squared test with Yates' continuity correction
+
+data:  fls2536
+X-squared = 0.5098, df = 1, p-value = 0.4752
+
+v25 and v37 cs
+                                         v37 Censor Socialist Book
+v25 Save Taxes, Cut Down ABomb Production  Yes   No
+                                      Yes  223  301
+                                      No  1328 2090
+
+	Pearson's Chi-squared test with Yates' continuity correction
+
+data:  fcs2537
+X-squared = 2.4592, df = 1, p-value = 0.1168
+
+v25 and v37 ls
+                                         v37 Censor Socialist Book
+v25 Save Taxes, Cut Down ABomb Production  Yes   No
+                                      Yes   15   69
+                                      No   244 1048
+
+	Pearson's Chi-squared test with Yates' continuity correction
+
+data:  fls2537
+X-squared = 0.0080281, df = 1, p-value = 0.9286
+
+v25 and v42 cs
+                                         v42 American Comm Danger U.S. Rn
+v25 Save Taxes, Cut Down ABomb Production Very Great Great Some Hardly Any   No
+                                      Yes         95   121  238         62   18
+                                      No         791   934 1449        356   89
+
+	Pearson's Chi-squared test
+
+data:  fcs2542
+X-squared = 10.73, df = 4, p-value = 0.02977
+
+v25 and v42 ls
+                                         v42 American Comm Danger U.S. Rn
+v25 Save Taxes, Cut Down ABomb Production Very Great Great Some Hardly Any  No
+                                      Yes         12    17   32         22   2
+                                      No         211   296  597        182  30
+
+	Pearson's Chi-squared test
+
+data:  fls2542
+X-squared = 9.4326, df = 4, p-value = 0.05115
+
+v25 and v43 cs
+                                         v43 Why Comm Dangerous?
+v25 Save Taxes, Cut Down ABomb Production Espionage Sabotage Subversion and Conversion
+                                      Yes        41       33                       145
+                                      No        335      301                      1146
+                                         v43 Why Comm Dangerous?
+v25 Save Taxes, Cut Down ABomb Production Dangerous, Other Not bc FBI Not bc McCathy
+                                      Yes              146          8              1
+                                      No               940         88             16
+                                         v43 Why Comm Dangerous?
+v25 Save Taxes, Cut Down ABomb Production Not, Other
+                                      Yes         57
+                                      No         302
+
+	Pearson's Chi-squared test
+
+data:  fcs2543
+X-squared = 11.518, df = 6, p-value = 0.07362
+
+v25 and v43 ls
+                                         v43 Why Comm Dangerous?
+v25 Save Taxes, Cut Down ABomb Production Espionage Sabotage Subversion and Conversion
+                                      Yes         8        3                        32
+                                      No         85       72                       497
+                                         v43 Why Comm Dangerous?
+v25 Save Taxes, Cut Down ABomb Production Dangerous, Other Not bc FBI Not bc McCathy
+                                      Yes               17          3              2
+                                      No               376         66              4
+                                         v43 Why Comm Dangerous?
+v25 Save Taxes, Cut Down ABomb Production Not, Other
+                                      Yes         17
+                                      No         127
+
+	Pearson's Chi-squared test
+
+data:  fls2543
+X-squared = 19.526, df = 6, p-value = 0.003361
+
+v25 and v44 cs
+                                         v44 Can Cmnst be loyal Amrcn
+v25 Save Taxes, Cut Down ABomb Production  Yes Qualified   No
+                                      Yes   40        12  488
+                                      No   182        69 3389
+
+	Pearson's Chi-squared test
+
+data:  fcs2544
+X-squared = 5.7693, df = 2, p-value = 0.05587
+
+v25 and v44 ls
+                                         v44 Can Cmnst be loyal Amrcn
+v25 Save Taxes, Cut Down ABomb Production  Yes Qualified   No
+                                      Yes    4         7   72
+                                      No    58        38 1204
+
+	Pearson's Chi-squared test
+
+data:  fls2544
+X-squared = 7.5949, df = 2, p-value = 0.02243
+
+skipping v45 out of confusion with the table, multiple rounds of questions, etc
+
+v25 and v46 cs
+                                         v46 What do Comm Believe
+v25 Save Taxes, Cut Down ABomb Production Russia/World Dom Loss Individual Rights
+                                      Yes               58                     35
+                                      No               516                    366
+                                         v46 What do Comm Believe
+v25 Save Taxes, Cut Down ABomb Production Gov Ownership Property Dictatorship Egalitarian
+                                      Yes                     89           88          93
+                                      No                     726          723         604
+                                         v46 What do Comm Believe
+v25 Save Taxes, Cut Down ABomb Production Anti-Religon Immoral/Amoral Slogan
+                                      Yes          130             27     35
+                                      No           949            189    264
+
+	Pearson's Chi-squared test
+
+data:  fcs2546
+X-squared = 7.5732, df = 7, p-value = 0.3717
+
+v25 and v46 ls
+                                         v46 What do Comm Believe
+v25 Save Taxes, Cut Down ABomb Production Russia/World Dom Loss Individual Rights
+                                      Yes               19                     13
+                                      No               174                    150
+                                         v46 What do Comm Believe
+v25 Save Taxes, Cut Down ABomb Production Gov Ownership Property Dictatorship Egalitarian
+                                      Yes                     18           25          25
+                                      No                     333          464         264
+                                         v46 What do Comm Believe
+v25 Save Taxes, Cut Down ABomb Production Anti-Religon Immoral/Amoral Slogan
+                                      Yes           16             10     13
+                                      No           345             74    220
+
+	Pearson's Chi-squared test
+
+data:  fls2546
+X-squared = 16.023, df = 7, p-value = 0.0249
+
+v25 and v47 cs
+                                         v47 Have you known a Comm
+v25 Save Taxes, Cut Down ABomb Production  Yes   No
+                                      Yes   76  515
+                                      No   670 3114
+
+	Pearson's Chi-squared test with Yates' continuity correction
+
+data:  fcs2547
+X-squared = 8.1499, df = 1, p-value = 0.004306
+
+v25 and v47 ls
+                                         v47 Have you known a Comm
+v25 Save Taxes, Cut Down ABomb Production Yes  No
+                                      Yes  38  48
+                                      No  576 744
+
+	Pearson's Chi-squared test with Yates' continuity correction
+
+data:  fls2547
+X-squared = 1.3993e-30, df = 1, p-value = 1
+
+v25 and v48 cs
+                                         v48 How could you tell/know?
+v25 Save Taxes, Cut Down ABomb Production It was admitted What was Said/Read
+                                      Yes              18                 52
+                                      No              129                419
+                                         v48 How could you tell/know?
+v25 Save Taxes, Cut Down ABomb Production Groups/Organizations Deviant/Strange Behavior
+                                      Yes                    4                        8
+                                      No                    47                      103
+
+	Pearson's Chi-squared test
+
+data:  fcs2548
+X-squared = 2.2838, df = 3, p-value = 0.5156
+
+v25 and v48 ls
+                                         v48 How could you tell/know?
+v25 Save Taxes, Cut Down ABomb Production It was admitted What was Said/Read
+                                      Yes               9                 20
+                                      No              145                353
+                                         v48 How could you tell/know?
+v25 Save Taxes, Cut Down ABomb Production Groups/Organizations Deviant/Strange Behavior
+                                      Yes                    3                        5
+                                      No                    52                       73
+
+	Pearson's Chi-squared test
+
+data:  fls2548
+X-squared = 0.15622, df = 3, p-value = 0.9843
+
+v25 and v49 cs
+                                         v49 Your city asked you to report Comm to FBI
+v25 Save Taxes, Cut Down ABomb Production  Yes   No
+                                      Yes   37  511
+                                      No   345 3152
+
+	Pearson's Chi-squared test with Yates' continuity correction
+
+data:  fcs2549
+X-squared = 5.0132, df = 1, p-value = 0.02515
+
+v25 and v49 ls
+                                         v49 Your city asked you to report Comm to FBI
+v25 Save Taxes, Cut Down ABomb Production Yes  No
+                                      Yes  38  48
+                                      No  576 744
+
+	Pearson's Chi-squared test with Yates' continuity correction
+
+data:  fls2549
+X-squared = 1.3993e-30, df = 1, p-value = 1
+
+v25 and v50 cs
+                                         v50 Heard of other cities citizens asked to report Comm to FBI
+v25 Save Taxes, Cut Down ABomb Production  Yes   No
+                                      Yes   37  175
+                                      No   345 1219
+
+	Pearson's Chi-squared test with Yates' continuity correction
+
+data:  fcs2550
+X-squared = 2.0812, df = 1, p-value = 0.1491
+
+v25 and v50 ls
+                                         v50 Heard of other cities citizens asked to report Comm to FBI
+v25 Save Taxes, Cut Down ABomb Production Yes  No
+                                      Yes  27  40
+                                      No  330 606
+
+	Pearson's Chi-squared test with Yates' continuity correction
+
+data:  fls2550
+X-squared = 0.49088, df = 1, p-value = 0.4835
+
+v25 and v51 cs
+                                         v51 Discussed v50 idea with anyone
+v25 Save Taxes, Cut Down ABomb Production  Yes   No
+                                      Yes  555    8
+                                      No  3443  133
+
+	Pearson's Chi-squared test with Yates' continuity correction
+
+data:  fcs2551
+X-squared = 7.1253, df = 1, p-value = 0.0076
+
+v25 and v51 ls
+                                         v51 Discussed v50 idea with anyone
+v25 Save Taxes, Cut Down ABomb Production Yes  No
+                                      Yes  59  16
+                                      No  994 205
+
+	Pearson's Chi-squared test with Yates' continuity correction
+
+data:  fls2551
+X-squared = 0.61254, df = 1, p-value = 0.4338
+
+v25 and v52 cs
+                                         v52 Do you think reporting neighbors a good idea
+v25 Save Taxes, Cut Down ABomb Production  Yes   No
+                                      Yes  402  137
+                                      No  2843  717
+
+	Pearson's Chi-squared test with Yates' continuity correction
+
+data:  fcs2552
+X-squared = 7.5867, df = 1, p-value = 0.00588
+
+v25 and v52 ls
+                                         v52 Do you think reporting neighbors a good idea
+v25 Save Taxes, Cut Down ABomb Production Yes  No
+                                      Yes  54  29
+                                      No  851 427
+
+	Pearson's Chi-squared test with Yates' continuity correction
+
+data:  fls2552
+X-squared = 0.027501, df = 1, p-value = 0.8683
+
+v25 and v53 cs
+                                         v53 Is v52 dangerous, how?
+v25 Save Taxes, Cut Down ABomb Production No Dangers Fear/Reprisal
+                                      Yes        165           107
+                                      No        1327           699
+                                         v53 Is v52 dangerous, how?
+v25 Save Taxes, Cut Down ABomb Production Hurt Innocent/Wrongly Accused Malicious Reporting
+                                      Yes                            43                  13
+                                      No                            398                  98
+                                         v53 Is v52 dangerous, how?
+v25 Save Taxes, Cut Down ABomb Production Atmosphere Suspicion/Mistrust Inefficent/Wasteful
+                                      Yes                            28                   3
+                                      No                            102                  23
+                                         v53 Is v52 dangerous, how?
+v25 Save Taxes, Cut Down ABomb Production Un-American/Undemocratic Other Danger
+                                      Yes                        2           31
+                                      No                        18          145
+
+	Pearson's Chi-squared test
+
+data:  fcs2553
+X-squared = 20.612, df = 7, p-value = 0.004389
+
+v25 and v53 ls
+                                         v53 Is v52 dangerous, how?
+v25 Save Taxes, Cut Down ABomb Production No Dangers Fear/Reprisal
+                                      Yes         23             3
+                                      No         374            66
+                                         v53 Is v52 dangerous, how?
+v25 Save Taxes, Cut Down ABomb Production Hurt Innocent/Wrongly Accused Malicious Reporting
+                                      Yes                            11                   8
+                                      No                            233                 112
+                                         v53 Is v52 dangerous, how?
+v25 Save Taxes, Cut Down ABomb Production Atmosphere Suspicion/Mistrust Inefficent/Wasteful
+                                      Yes                             3                   1
+                                      No                             41                  16
+                                         v53 Is v52 dangerous, how?
+v25 Save Taxes, Cut Down ABomb Production Un-American/Undemocratic Other Danger
+                                      Yes                        0            5
+                                      No                        41           51
+
+	Pearson's Chi-squared test
+
+data:  fls2553
+X-squared = 4.8491, df = 7, p-value = 0.6784
+
+v25 and v55 cs
+                                         v55 How is reporting aquaintances dangerous?
+v25 Save Taxes, Cut Down ABomb Production Fear/Reprisal Hurt Innocent/Wrongly Accused
+                                      Yes            16                            46
+                                      No             32                           276
+                                         v55 How is reporting aquaintances dangerous?
+v25 Save Taxes, Cut Down ABomb Production Malicious Reporting Atmosphere Suspicion/Mistrust
+                                      Yes                  19                            40
+                                      No                  142                           188
+                                         v55 How is reporting aquaintances dangerous?
+v25 Save Taxes, Cut Down ABomb Production Inefficent/Wasteful Un-American/Undemocratic
+                                      Yes                   7                       18
+                                      No                   72                      119
+                                         v55 How is reporting aquaintances dangerous?
+v25 Save Taxes, Cut Down ABomb Production Other Danger
+                                      Yes           16
+                                      No            78
+
+	Pearson's Chi-squared test
+
+data:  fcs2555
+X-squared = 18.068, df = 6, p-value = 0.006065
+
+v25 and v55 ls
+                                         v55 How is reporting aquaintances dangerous?
+v25 Save Taxes, Cut Down ABomb Production Fear/Reprisal Hurt Innocent/Wrongly Accused
+                                      Yes             0                            13
+                                      No              7                           135
+                                         v55 How is reporting aquaintances dangerous?
+v25 Save Taxes, Cut Down ABomb Production Malicious Reporting Atmosphere Suspicion/Mistrust
+                                      Yes                   3                            11
+                                      No                  151                           114
+                                         v55 How is reporting aquaintances dangerous?
+v25 Save Taxes, Cut Down ABomb Production Inefficent/Wasteful Un-American/Undemocratic
+                                      Yes                   3                        3
+                                      No                   57                      124
+                                         v55 How is reporting aquaintances dangerous?
+v25 Save Taxes, Cut Down ABomb Production Other Danger
+                                      Yes            4
+                                      No            22
+
+	Pearson's Chi-squared test
+
+data:  fls2555
+X-squared = 16.482, df = 6, p-value = 0.01139
+
+v25 and v57 cs
+                                         v57 To catch Comm, Can gov listen to phone calls?
+v25 Save Taxes, Cut Down ABomb Production  Yes   No
+                                      Yes  334  219
+                                      No  2586  968
+
+	Pearson's Chi-squared test with Yates' continuity correction
+
+data:  fcs2557
+X-squared = 35.008, df = 1, p-value = 3.283e-09
+
+v25 and v57 ls
+                                         v57 To catch Comm, Can gov listen to phone calls?
+v25 Save Taxes, Cut Down ABomb Production Yes  No
+                                      Yes  58  26
+                                      No  818 434
+
+	Pearson's Chi-squared test with Yates' continuity correction
+
+data:  fls2557
+X-squared = 0.33012, df = 1, p-value = 0.5656
+
